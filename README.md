@@ -1,5 +1,20 @@
 
 # data-for-india
+This repository contains JSON datasets that might be useful for making applications for Indian users.
+
+
+## List of datasets
+
+| Dataset | View | Download | Minified |
+| --- | --- | --- | --- |
+| Districts | [View](https://github.com/iaseth/data-for-india/blob/master/data/readable/districts.json) | [Download](https://raw.githubusercontent.com/iaseth/data-for-india/master/data/readable/districts.json) | [Download](https://raw.githubusercontent.com/iaseth/data-for-india/master/data/minified/districts.min.json) |
+| State Animals | [View](https://github.com/iaseth/data-for-india/blob/master/data/readable/stateanimals.json) | [Download](https://raw.githubusercontent.com/iaseth/data-for-india/master/data/readable/stateanimals.json) | [Download](https://raw.githubusercontent.com/iaseth/data-for-india/master/data/minified/stateanimals.min.json) |
+| State Birds | [View](https://github.com/iaseth/data-for-india/blob/master/data/readable/statebirds.json) | [Download](https://raw.githubusercontent.com/iaseth/data-for-india/master/data/readable/statebirds.json) | [Download](https://raw.githubusercontent.com/iaseth/data-for-india/master/data/minified/statebirds.min.json) |
+| State Flowers | [View](https://github.com/iaseth/data-for-india/blob/master/data/readable/stateflowers.json) | [Download](https://raw.githubusercontent.com/iaseth/data-for-india/master/data/readable/stateflowers.json) | [Download](https://raw.githubusercontent.com/iaseth/data-for-india/master/data/minified/stateflowers.min.json) |
+| State Trees | [View](https://github.com/iaseth/data-for-india/blob/master/data/readable/statetrees.json) | [Download](https://raw.githubusercontent.com/iaseth/data-for-india/master/data/readable/statetrees.json) | [Download](https://raw.githubusercontent.com/iaseth/data-for-india/master/data/minified/statetrees.min.json) |
+
+
+## List of districts
 
 | Code | State | Code | District |
 | --- | --- | --- | --- |
