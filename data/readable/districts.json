@@ -1,0 +1,7624 @@
+{
+	"districts": [
+		{
+			"state": "Andhra Pradesh",
+			"stateCode": "AP",
+			"districtCode": "AS",
+			"district": "Alluri Sitharama Raju",
+			"headquarters": "Paderu",
+			"population": 954000,
+			"area": 12251,
+			"density": 77
+		},
+		{
+			"state": "Andhra Pradesh",
+			"stateCode": "AP",
+			"districtCode": "AK",
+			"district": "Anakapalli",
+			"headquarters": "Anakapalli",
+			"population": 1727000,
+			"area": 4292,
+			"density": 402
+		},
+		{
+			"state": "Andhra Pradesh",
+			"stateCode": "AP",
+			"districtCode": "AN",
+			"district": "Ananthapuramu",
+			"headquarters": "Ananthapuramu",
+			"population": 2241100,
+			"area": 10205,
+			"density": 219
+		},
+		{
+			"state": "Andhra Pradesh",
+			"stateCode": "AP",
+			"districtCode": "AM",
+			"district": "Annamayya",
+			"headquarters": "Rayachoti",
+			"population": 1697300,
+			"area": 7954,
+			"density": 213
+		},
+		{
+			"state": "Andhra Pradesh",
+			"stateCode": "AP",
+			"districtCode": "BP",
+			"district": "Bapatla",
+			"headquarters": "Bapatla",
+			"population": 1587000,
+			"area": 3829,
+			"density": 414
+		},
+		{
+			"state": "Andhra Pradesh",
+			"stateCode": "AP",
+			"districtCode": "CH",
+			"district": "Chittoor",
+			"headquarters": "Chittoor",
+			"population": 1873000,
+			"area": 6855,
+			"density": 273
+		},
+		{
+			"state": "Andhra Pradesh",
+			"stateCode": "AP",
+			"districtCode": "KN",
+			"district": "Dr. B.R. Ambedkar Konaseema",
+			"headquarters": "Amalapuram",
+			"population": 1719100,
+			"area": 2083,
+			"density": 825
+		},
+		{
+			"state": "Andhra Pradesh",
+			"stateCode": "AP",
+			"districtCode": "EG",
+			"district": "East Godavari",
+			"headquarters": "Rajamahendravaram",
+			"population": 1832300,
+			"area": 2561,
+			"density": 715
+		},
+		{
+			"state": "Andhra Pradesh",
+			"stateCode": "AP",
+			"districtCode": "EL",
+			"district": "Eluru",
+			"headquarters": "Eluru",
+			"population": 2071700,
+			"area": 6679,
+			"density": 310
+		},
+		{
+			"state": "Andhra Pradesh",
+			"stateCode": "AP",
+			"districtCode": "GU",
+			"district": "Guntur",
+			"headquarters": "Guntur",
+			"population": 2091000,
+			"area": 2443,
+			"density": 855
+		},
+		{
+			"state": "Andhra Pradesh",
+			"stateCode": "AP",
+			"districtCode": "KK",
+			"district": "Kakinada",
+			"headquarters": "Kakinada",
+			"population": 2092300,
+			"area": 3019,
+			"density": 693
+		},
+		{
+			"state": "Andhra Pradesh",
+			"stateCode": "AP",
+			"districtCode": "KR",
+			"district": "Krishna",
+			"headquarters": "Machilipatnam",
+			"population": 1735000,
+			"area": 3775,
+			"density": 459
+		},
+		{
+			"state": "Andhra Pradesh",
+			"stateCode": "AP",
+			"districtCode": "KU",
+			"district": "Kurnool",
+			"headquarters": "Kurnool",
+			"population": 2271700,
+			"area": 7980,
+			"density": 284
+		},
+		{
+			"state": "Andhra Pradesh",
+			"stateCode": "AP",
+			"districtCode": "NN",
+			"district": "Nandyal",
+			"headquarters": "Nandyal",
+			"population": 1781800,
+			"area": 9682,
+			"density": 184
+		},
+		{
+			"state": "Andhra Pradesh",
+			"stateCode": "AP",
+			"districtCode": "NT",
+			"district": "NTR",
+			"headquarters": "Vijayawada",
+			"population": 2218000,
+			"area": 3316,
+			"density": 668
+		},
+		{
+			"state": "Andhra Pradesh",
+			"stateCode": "AP",
+			"districtCode": "PL",
+			"district": "Palnadu",
+			"headquarters": "Narasaraopet",
+			"population": 2042000,
+			"area": 7298,
+			"density": 279
+		},
+		{
+			"state": "Andhra Pradesh",
+			"stateCode": "AP",
+			"districtCode": "PM",
+			"district": "Parvathipuram Manyam",
+			"headquarters": "Parvathipuram",
+			"population": 925300,
+			"area": 3659,
+			"density": 252
+		},
+		{
+			"state": "Andhra Pradesh",
+			"stateCode": "AP",
+			"districtCode": "PR",
+			"district": "Prakasam",
+			"headquarters": "Ongole",
+			"population": 2288000,
+			"area": 14322,
+			"density": 160
+		},
+		{
+			"state": "Andhra Pradesh",
+			"stateCode": "AP",
+			"districtCode": "SR",
+			"district": "Srikakulam",
+			"headquarters": "Srikakulam",
+			"population": 2191471,
+			"area": 4591,
+			"density": 477
+		},
+		{
+			"state": "Andhra Pradesh",
+			"stateCode": "AP",
+			"districtCode": "NE",
+			"district": "Sri Potti Sriramulu Nellore",
+			"headquarters": "Nellore",
+			"population": 2469700,
+			"area": 10441,
+			"density": 236
+		},
+		{
+			"state": "Andhra Pradesh",
+			"stateCode": "AP",
+			"districtCode": "SS",
+			"district": "Sri Sathya Sai",
+			"headquarters": "Puttaparthi",
+			"population": 1840000,
+			"area": 8925,
+			"density": 206
+		},
+		{
+			"state": "Andhra Pradesh",
+			"stateCode": "AP",
+			"districtCode": "TR",
+			"district": "Tirupati",
+			"headquarters": "Tirupati",
+			"population": 2197000,
+			"area": 8231,
+			"density": 241
+		},
+		{
+			"state": "Andhra Pradesh",
+			"stateCode": "AP",
+			"districtCode": "VS",
+			"district": "Visakhapatnam",
+			"headquarters": "Visakhapatnam",
+			"population": 1959500,
+			"area": 1048,
+			"density": 1869
+		},
+		{
+			"state": "Andhra Pradesh",
+			"stateCode": "AP",
+			"districtCode": "VZ",
+			"district": "Vizianagaram",
+			"headquarters": "Vizianagaram",
+			"population": 1930800,
+			"area": 4122,
+			"density": 468
+		},
+		{
+			"state": "Andhra Pradesh",
+			"stateCode": "AP",
+			"districtCode": "WG",
+			"district": "West Godavari",
+			"headquarters": "Bhimavaram",
+			"population": 1780000,
+			"area": 2178,
+			"density": 817
+		},
+		{
+			"state": "Andhra Pradesh",
+			"stateCode": "AP",
+			"districtCode": "CU",
+			"district": "YSR",
+			"headquarters": "Kadapa",
+			"population": 2060700,
+			"area": 11228,
+			"density": 183
+		},
+		{
+			"state": "Arunachal Pradesh",
+			"stateCode": "AR",
+			"districtCode": "AJ",
+			"district": "Anjaw",
+			"headquarters": "Hawai",
+			"population": 21089,
+			"area": 6190,
+			"density": 3
+		},
+		{
+			"state": "Arunachal Pradesh",
+			"stateCode": "AR",
+			"districtCode": "CH",
+			"district": "Changlang",
+			"headquarters": "Changlang",
+			"population": 147951,
+			"area": 4662,
+			"density": 32
+		},
+		{
+			"state": "Arunachal Pradesh",
+			"stateCode": "AR",
+			"districtCode": "EK",
+			"district": "East Kameng",
+			"headquarters": "Seppa",
+			"population": 78413,
+			"area": 4134,
+			"density": 19
+		},
+		{
+			"state": "Arunachal Pradesh",
+			"stateCode": "AR",
+			"districtCode": "ES",
+			"district": "East Siang",
+			"headquarters": "Pasighat",
+			"population": 99019,
+			"area": 3603,
+			"density": 27
+		},
+		{
+			"state": "Arunachal Pradesh",
+			"stateCode": "AR",
+			"districtCode": "",
+			"district": "Itanagar capital complex",
+			"headquarters": "Itanagar",
+			"population": 122930,
+			"area": 200,
+			"density": 614
+		},
+		{
+			"state": "Arunachal Pradesh",
+			"stateCode": "AR",
+			"districtCode": "\u2013",
+			"district": "Kamle",
+			"headquarters": "Raga",
+			"population": 22256,
+			"area": 200,
+			"density": 111
+		},
+		{
+			"state": "Arunachal Pradesh",
+			"stateCode": "AR",
+			"districtCode": "\u2013",
+			"district": "Kra Daadi",
+			"headquarters": "Palin",
+			"population": 22290,
+			"area": 2202,
+			"density": 10
+		},
+		{
+			"state": "Arunachal Pradesh",
+			"stateCode": "AR",
+			"districtCode": "KK",
+			"district": "Kurung Kumey",
+			"headquarters": "Koloriang",
+			"population": 89717,
+			"area": 6040,
+			"density": 15
+		},
+		{
+			"state": "Arunachal Pradesh",
+			"stateCode": "AR",
+			"districtCode": "\u2013",
+			"district": "Lepa Rada",
+			"headquarters": "Basar",
+			"population": 0,
+			"area": 0,
+			"density": 0
+		},
+		{
+			"state": "Arunachal Pradesh",
+			"stateCode": "AR",
+			"districtCode": "EL",
+			"district": "Lohit",
+			"headquarters": "Tezu",
+			"population": 145538,
+			"area": 2402,
+			"density": 61
+		},
+		{
+			"state": "Arunachal Pradesh",
+			"stateCode": "AR",
+			"districtCode": "LD",
+			"district": "Longding",
+			"headquarters": "Longding",
+			"population": 60000,
+			"area": 1200,
+			"density": 50
+		},
+		{
+			"state": "Arunachal Pradesh",
+			"stateCode": "AR",
+			"districtCode": "DV",
+			"district": "Lower Dibang Valley",
+			"headquarters": "Roing",
+			"population": 53986,
+			"area": 3900,
+			"density": 14
+		},
+		{
+			"state": "Arunachal Pradesh",
+			"stateCode": "AR",
+			"districtCode": "\u2013",
+			"district": "Lower Siang",
+			"headquarters": "Likabali",
+			"population": 22630,
+			"area": 0,
+			"density": 0
+		},
+		{
+			"state": "Arunachal Pradesh",
+			"stateCode": "AR",
+			"districtCode": "LB",
+			"district": "Lower Subansiri",
+			"headquarters": "Ziro",
+			"population": 82839,
+			"area": 3508,
+			"density": 24
+		},
+		{
+			"state": "Arunachal Pradesh",
+			"stateCode": "AR",
+			"districtCode": "\u2013",
+			"district": "Namsai",
+			"headquarters": "Namsai",
+			"population": 95950,
+			"area": 1587,
+			"density": 60
+		},
+		{
+			"state": "Arunachal Pradesh",
+			"stateCode": "AR",
+			"districtCode": "\u2013",
+			"district": "Pakke-Kessang",
+			"headquarters": "Lemmi",
+			"population": 15358,
+			"area": 1932,
+			"density": 7
+		},
+		{
+			"state": "Arunachal Pradesh",
+			"stateCode": "AR",
+			"districtCode": "PA",
+			"district": "Papum Pare",
+			"headquarters": "Yupia",
+			"population": 176385,
+			"area": 2875,
+			"density": 61
+		},
+		{
+			"state": "Arunachal Pradesh",
+			"stateCode": "AR",
+			"districtCode": "\u2013",
+			"district": "Shi Yomi",
+			"headquarters": "Tato",
+			"population": 13310,
+			"area": 2875,
+			"density": 5
+		},
+		{
+			"state": "Arunachal Pradesh",
+			"stateCode": "AR",
+			"districtCode": "\u2013",
+			"district": "Siang",
+			"headquarters": "Boleng",
+			"population": 31920,
+			"area": 2919,
+			"density": 11
+		},
+		{
+			"state": "Arunachal Pradesh",
+			"stateCode": "AR",
+			"districtCode": "TA",
+			"district": "Tawang",
+			"headquarters": "Tawang",
+			"population": 49950,
+			"area": 2085,
+			"density": 24
+		},
+		{
+			"state": "Arunachal Pradesh",
+			"stateCode": "AR",
+			"districtCode": "TI",
+			"district": "Tirap",
+			"headquarters": "Khonsa",
+			"population": 111997,
+			"area": 2362,
+			"density": 47
+		},
+		{
+			"state": "Arunachal Pradesh",
+			"stateCode": "AR",
+			"districtCode": "UD",
+			"district": "Upper Dibang Valley",
+			"headquarters": "Anini",
+			"population": 8004,
+			"area": 9129,
+			"density": 1
+		},
+		{
+			"state": "Arunachal Pradesh",
+			"stateCode": "AR",
+			"districtCode": "US",
+			"district": "Upper Siang",
+			"headquarters": "Yingkiong",
+			"population": 35289,
+			"area": 6188,
+			"density": 6
+		},
+		{
+			"state": "Arunachal Pradesh",
+			"stateCode": "AR",
+			"districtCode": "UB",
+			"district": "Upper Subansiri",
+			"headquarters": "Daporijo",
+			"population": 83205,
+			"area": 7032,
+			"density": 12
+		},
+		{
+			"state": "Arunachal Pradesh",
+			"stateCode": "AR",
+			"districtCode": "WK",
+			"district": "West Kameng",
+			"headquarters": "Bomdila",
+			"population": 87013,
+			"area": 7422,
+			"density": 12
+		},
+		{
+			"state": "Arunachal Pradesh",
+			"stateCode": "AR",
+			"districtCode": "WS",
+			"district": "West Siang",
+			"headquarters": "Aalo",
+			"population": 112272,
+			"area": 8325,
+			"density": 13
+		},
+		{
+			"state": "Assam",
+			"stateCode": "AS",
+			"districtCode": "BK",
+			"district": "Baksa",
+			"headquarters": "Mushalpur",
+			"population": 953773,
+			"area": 2008,
+			"density": 475
+		},
+		{
+			"state": "Assam",
+			"stateCode": "AS",
+			"districtCode": "BP",
+			"district": "Barpeta",
+			"headquarters": "Barpeta",
+			"population": 1693622,
+			"area": 3245,
+			"density": 520
+		},
+		{
+			"state": "Assam",
+			"stateCode": "AS",
+			"districtCode": "BO",
+			"district": "Bongaigaon",
+			"headquarters": "Bongaigaon",
+			"population": 732639,
+			"area": 1724,
+			"density": 425
+		},
+		{
+			"state": "Assam",
+			"stateCode": "AS",
+			"districtCode": "CA",
+			"district": "Cachar",
+			"headquarters": "Silchar",
+			"population": 1736319,
+			"area": 3786,
+			"density": 459
+		},
+		{
+			"state": "Assam",
+			"stateCode": "AS",
+			"districtCode": "CD",
+			"district": "Charaideo",
+			"headquarters": "Sonari",
+			"population": 471418,
+			"area": 1069,
+			"density": 440
+		},
+		{
+			"state": "Assam",
+			"stateCode": "AS",
+			"districtCode": "CH",
+			"district": "Chirang",
+			"headquarters": "Kajalgaon",
+			"population": 481818,
+			"area": 1975,
+			"density": 244
+		},
+		{
+			"state": "Assam",
+			"stateCode": "AS",
+			"districtCode": "DR",
+			"district": "Darrang",
+			"headquarters": "Mangaldoi",
+			"population": 908090,
+			"area": 1849,
+			"density": 491
+		},
+		{
+			"state": "Assam",
+			"stateCode": "AS",
+			"districtCode": "DM",
+			"district": "Dhemaji",
+			"headquarters": "Dhemaji",
+			"population": 688077,
+			"area": 3237,
+			"density": 213
+		},
+		{
+			"state": "Assam",
+			"stateCode": "AS",
+			"districtCode": "DU",
+			"district": "Dhubri",
+			"headquarters": "Dhubri",
+			"population": 1948632,
+			"area": 2838,
+			"density": 687
+		},
+		{
+			"state": "Assam",
+			"stateCode": "AS",
+			"districtCode": "DI",
+			"district": "Dibrugarh",
+			"headquarters": "Dibrugarh",
+			"population": 1327748,
+			"area": 3381,
+			"density": 393
+		},
+		{
+			"state": "Assam",
+			"stateCode": "AS",
+			"districtCode": "NC",
+			"district": "Dima Hasao",
+			"headquarters": "Haflong",
+			"population": 213529,
+			"area": 4888,
+			"density": 44
+		},
+		{
+			"state": "Assam",
+			"stateCode": "AS",
+			"districtCode": "GP",
+			"district": "Goalpara",
+			"headquarters": "Goalpara",
+			"population": 1008959,
+			"area": 1824,
+			"density": 553
+		},
+		{
+			"state": "Assam",
+			"stateCode": "AS",
+			"districtCode": "GG",
+			"district": "Golaghat",
+			"headquarters": "Golaghat",
+			"population": 1058674,
+			"area": 3502,
+			"density": 302
+		},
+		{
+			"state": "Assam",
+			"stateCode": "AS",
+			"districtCode": "HA",
+			"district": "Hailakandi",
+			"headquarters": "Hailakandi",
+			"population": 659260,
+			"area": 1327,
+			"density": 497
+		},
+		{
+			"state": "Assam",
+			"stateCode": "AS",
+			"districtCode": "JO",
+			"district": "Jorhat",
+			"headquarters": "Jorhat",
+			"population": 1091295,
+			"area": 2851,
+			"density": 383
+		},
+		{
+			"state": "Assam",
+			"stateCode": "AS",
+			"districtCode": "KU",
+			"district": "Kamrup",
+			"headquarters": "Amingaon",
+			"population": 1517202,
+			"area": 3480,
+			"density": 436
+		},
+		{
+			"state": "Assam",
+			"stateCode": "AS",
+			"districtCode": "KM",
+			"district": "Kamrup Metropolitan",
+			"headquarters": "Guwahati",
+			"population": 1260419,
+			"area": 627,
+			"density": 2010
+		},
+		{
+			"state": "Assam",
+			"stateCode": "AS",
+			"districtCode": "KG",
+			"district": "Karbi Anglong",
+			"headquarters": "Diphu",
+			"population": 965280,
+			"area": 10434,
+			"density": 93
+		},
+		{
+			"state": "Assam",
+			"stateCode": "AS",
+			"districtCode": "KR",
+			"district": "Karimganj",
+			"headquarters": "Karimganj",
+			"population": 1217002,
+			"area": 1809,
+			"density": 673
+		},
+		{
+			"state": "Assam",
+			"stateCode": "AS",
+			"districtCode": "KJ",
+			"district": "Kokrajhar",
+			"headquarters": "Kokrajhar",
+			"population": 886999,
+			"area": 3129,
+			"density": 283
+		},
+		{
+			"state": "Assam",
+			"stateCode": "AS",
+			"districtCode": "LA",
+			"district": "Lakhimpur",
+			"headquarters": "North Lakhimpur",
+			"population": 1040644,
+			"area": 2277,
+			"density": 457
+		},
+		{
+			"state": "Assam",
+			"stateCode": "AS",
+			"districtCode": "MJ",
+			"district": "Majuli",
+			"headquarters": "Garamur",
+			"population": 167304,
+			"area": 880,
+			"density": 300
+		},
+		{
+			"state": "Assam",
+			"stateCode": "AS",
+			"districtCode": "MA",
+			"district": "Morigaon",
+			"headquarters": "Marigaon",
+			"population": 957853,
+			"area": 1704,
+			"density": 562
+		},
+		{
+			"state": "Assam",
+			"stateCode": "AS",
+			"districtCode": "NN",
+			"district": "Nagaon",
+			"headquarters": "Nagaon",
+			"population": 2826006,
+			"area": 3831,
+			"density": 738
+		},
+		{
+			"state": "Assam",
+			"stateCode": "AS",
+			"districtCode": "NB",
+			"district": "Nalbari",
+			"headquarters": "Nalbari",
+			"population": 769919,
+			"area": 1009,
+			"density": 763
+		},
+		{
+			"state": "Assam",
+			"stateCode": "AS",
+			"districtCode": "ST",
+			"district": "Sivasagar",
+			"headquarters": "Sibsagar",
+			"population": 1150253,
+			"area": 2668,
+			"density": 431
+		},
+		{
+			"state": "Assam",
+			"stateCode": "AS",
+			"districtCode": "SO",
+			"district": "Sonitpur",
+			"headquarters": "Tezpur",
+			"population": 1925975,
+			"area": 5324,
+			"density": 362
+		},
+		{
+			"state": "Assam",
+			"stateCode": "AS",
+			"districtCode": "SM",
+			"district": "South Salmara Mankachar",
+			"headquarters": "Hatsingimari",
+			"population": 555114,
+			"area": 568,
+			"density": 980
+		},
+		{
+			"state": "Assam",
+			"stateCode": "AS",
+			"districtCode": "TI",
+			"district": "Tinsukia",
+			"headquarters": "Tinsukia",
+			"population": 1316948,
+			"area": 3790,
+			"density": 347
+		},
+		{
+			"state": "Assam",
+			"stateCode": "AS",
+			"districtCode": "UD",
+			"district": "Udalguri",
+			"headquarters": "Udalguri",
+			"population": 832769,
+			"area": 1676,
+			"density": 497
+		},
+		{
+			"state": "Assam",
+			"stateCode": "AS",
+			"districtCode": "WK",
+			"district": "West Karbi Anglong",
+			"headquarters": "Hamren",
+			"population": 300320,
+			"area": 3035,
+			"density": 99
+		},
+		{
+			"state": "Bihar",
+			"stateCode": "BR",
+			"districtCode": "AR",
+			"district": "Araria",
+			"headquarters": "Araria",
+			"population": 2806200,
+			"area": 2829,
+			"density": 992
+		},
+		{
+			"state": "Bihar",
+			"stateCode": "BR",
+			"districtCode": "AW",
+			"district": "Arwal",
+			"headquarters": "Arwal",
+			"population": 700843,
+			"area": 638,
+			"density": 1098
+		},
+		{
+			"state": "Bihar",
+			"stateCode": "BR",
+			"districtCode": "AU",
+			"district": "Aurangabad",
+			"headquarters": "Aurangabad",
+			"population": 2511243,
+			"area": 3303,
+			"density": 760
+		},
+		{
+			"state": "Bihar",
+			"stateCode": "BR",
+			"districtCode": "BA",
+			"district": "Banka",
+			"headquarters": "Banka",
+			"population": 2029339,
+			"area": 3018,
+			"density": 672
+		},
+		{
+			"state": "Bihar",
+			"stateCode": "BR",
+			"districtCode": "BE",
+			"district": "Begusarai",
+			"headquarters": "Begusarai",
+			"population": 2954367,
+			"area": 1917,
+			"density": 1540
+		},
+		{
+			"state": "Bihar",
+			"stateCode": "BR",
+			"districtCode": "BG",
+			"district": "Bhagalpur",
+			"headquarters": "Bhagalpur",
+			"population": 3032226,
+			"area": 2569,
+			"density": 1180
+		},
+		{
+			"state": "Bihar",
+			"stateCode": "BR",
+			"districtCode": "BJ",
+			"district": "Bhojpur",
+			"headquarters": "Arrah",
+			"population": 2720155,
+			"area": 2473,
+			"density": 1136
+		},
+		{
+			"state": "Bihar",
+			"stateCode": "BR",
+			"districtCode": "BU",
+			"district": "Buxar",
+			"headquarters": "Buxar",
+			"population": 1707643,
+			"area": 1624,
+			"density": 1003
+		},
+		{
+			"state": "Bihar",
+			"stateCode": "BR",
+			"districtCode": "DA",
+			"district": "Darbhanga",
+			"headquarters": "Darbhanga",
+			"population": 3921971,
+			"area": 2278,
+			"density": 1721
+		},
+		{
+			"state": "Bihar",
+			"stateCode": "BR",
+			"districtCode": "EC",
+			"district": "East Champaran",
+			"headquarters": "Motihari",
+			"population": 5082868,
+			"area": 3969,
+			"density": 1281
+		},
+		{
+			"state": "Bihar",
+			"stateCode": "BR",
+			"districtCode": "GA",
+			"district": "Gaya",
+			"headquarters": "Gaya",
+			"population": 4379383,
+			"area": 4978,
+			"density": 880
+		},
+		{
+			"state": "Bihar",
+			"stateCode": "BR",
+			"districtCode": "GO",
+			"district": "Gopalganj",
+			"headquarters": "Gopalganj",
+			"population": 2558037,
+			"area": 2033,
+			"density": 1258
+		},
+		{
+			"state": "Bihar",
+			"stateCode": "BR",
+			"districtCode": "JA",
+			"district": "Jamui",
+			"headquarters": "Jamui",
+			"population": 1756078,
+			"area": 3099,
+			"density": 567
+		},
+		{
+			"state": "Bihar",
+			"stateCode": "BR",
+			"districtCode": "JE",
+			"district": "Jehanabad",
+			"headquarters": "Jehanabad",
+			"population": 1124176,
+			"area": 1569,
+			"density": 1206
+		},
+		{
+			"state": "Bihar",
+			"stateCode": "BR",
+			"districtCode": "KM",
+			"district": "Kaimur",
+			"headquarters": "Bhabua",
+			"population": 1626900,
+			"area": 3363,
+			"density": 488
+		},
+		{
+			"state": "Bihar",
+			"stateCode": "BR",
+			"districtCode": "KT",
+			"district": "Katihar",
+			"headquarters": "Katihar",
+			"population": 3068149,
+			"area": 3056,
+			"density": 1004
+		},
+		{
+			"state": "Bihar",
+			"stateCode": "BR",
+			"districtCode": "KH",
+			"district": "Khagaria",
+			"headquarters": "Khagaria",
+			"population": 1657599,
+			"area": 1486,
+			"density": 1115
+		},
+		{
+			"state": "Bihar",
+			"stateCode": "BR",
+			"districtCode": "KI",
+			"district": "Kishanganj",
+			"headquarters": "Kishanganj",
+			"population": 1690948,
+			"area": 1884,
+			"density": 898
+		},
+		{
+			"state": "Bihar",
+			"stateCode": "BR",
+			"districtCode": "LA",
+			"district": "Lakhisarai",
+			"headquarters": "Lakhisarai",
+			"population": 1000717,
+			"area": 1229,
+			"density": 815
+		},
+		{
+			"state": "Bihar",
+			"stateCode": "BR",
+			"districtCode": "MP",
+			"district": "Madhepura",
+			"headquarters": "Madhepura",
+			"population": 1994618,
+			"area": 1787,
+			"density": 1116
+		},
+		{
+			"state": "Bihar",
+			"stateCode": "BR",
+			"districtCode": "MB",
+			"district": "Madhubani",
+			"headquarters": "Madhubani",
+			"population": 4476044,
+			"area": 3501,
+			"density": 1279
+		},
+		{
+			"state": "Bihar",
+			"stateCode": "BR",
+			"districtCode": "MG",
+			"district": "Munger",
+			"headquarters": "Munger",
+			"population": 1359054,
+			"area": 1419,
+			"density": 958
+		},
+		{
+			"state": "Bihar",
+			"stateCode": "BR",
+			"districtCode": "MZ",
+			"district": "Muzaffarpur",
+			"headquarters": "Muzaffarpur",
+			"population": 4778610,
+			"area": 3173,
+			"density": 1506
+		},
+		{
+			"state": "Bihar",
+			"stateCode": "BR",
+			"districtCode": "NL",
+			"district": "Nalanda",
+			"headquarters": "Bihar Sharif",
+			"population": 2872523,
+			"area": 2354,
+			"density": 1220
+		},
+		{
+			"state": "Bihar",
+			"stateCode": "BR",
+			"districtCode": "NW",
+			"district": "Nawada",
+			"headquarters": "Nawada",
+			"population": 2216653,
+			"area": 2492,
+			"density": 889
+		},
+		{
+			"state": "Bihar",
+			"stateCode": "BR",
+			"districtCode": "PA",
+			"district": "Patna",
+			"headquarters": "Patna",
+			"population": 5772804,
+			"area": 3202,
+			"density": 1803
+		},
+		{
+			"state": "Bihar",
+			"stateCode": "BR",
+			"districtCode": "PU",
+			"district": "Purnia",
+			"headquarters": "Purnia",
+			"population": 3273127,
+			"area": 3228,
+			"density": 1014
+		},
+		{
+			"state": "Bihar",
+			"stateCode": "BR",
+			"districtCode": "RO",
+			"district": "Rohtas",
+			"headquarters": "Sasaram",
+			"population": 2962593,
+			"area": 3850,
+			"density": 763
+		},
+		{
+			"state": "Bihar",
+			"stateCode": "BR",
+			"districtCode": "SH",
+			"district": "Saharsa",
+			"headquarters": "Saharsa",
+			"population": 1897102,
+			"area": 1702,
+			"density": 1125
+		},
+		{
+			"state": "Bihar",
+			"stateCode": "BR",
+			"districtCode": "SM",
+			"district": "Samastipur",
+			"headquarters": "Samastipur",
+			"population": 4254782,
+			"area": 2905,
+			"density": 1465
+		},
+		{
+			"state": "Bihar",
+			"stateCode": "BR",
+			"districtCode": "SR",
+			"district": "Saran",
+			"headquarters": "Chhapra",
+			"population": 3943098,
+			"area": 2641,
+			"density": 1493
+		},
+		{
+			"state": "Bihar",
+			"stateCode": "BR",
+			"districtCode": "SP",
+			"district": "Sheikhpura",
+			"headquarters": "Sheikhpura",
+			"population": 634927,
+			"area": 689,
+			"density": 922
+		},
+		{
+			"state": "Bihar",
+			"stateCode": "BR",
+			"districtCode": "SO",
+			"district": "Sheohar",
+			"headquarters": "Sheohar",
+			"population": 656916,
+			"area": 443,
+			"density": 1882
+		},
+		{
+			"state": "Bihar",
+			"stateCode": "BR",
+			"districtCode": "ST",
+			"district": "Sitamarhi",
+			"headquarters": "Sitamarhi",
+			"population": 3419622,
+			"area": 2199,
+			"density": 1491
+		},
+		{
+			"state": "Bihar",
+			"stateCode": "BR",
+			"districtCode": "SW",
+			"district": "Siwan",
+			"headquarters": "Siwan",
+			"population": 3318176,
+			"area": 2219,
+			"density": 1495
+		},
+		{
+			"state": "Bihar",
+			"stateCode": "BR",
+			"districtCode": "SU",
+			"district": "Supaul",
+			"headquarters": "Supaul",
+			"population": 2228397,
+			"area": 2410,
+			"density": 919
+		},
+		{
+			"state": "Bihar",
+			"stateCode": "BR",
+			"districtCode": "VA",
+			"district": "Vaishali",
+			"headquarters": "Hajipur",
+			"population": 3495021,
+			"area": 2036,
+			"density": 1717
+		},
+		{
+			"state": "Bihar",
+			"stateCode": "BR",
+			"districtCode": "WC",
+			"district": "West Champaran",
+			"headquarters": "Bettiah",
+			"population": 3935042,
+			"area": 5229,
+			"density": 753
+		},
+		{
+			"state": "Chhattisgarh",
+			"stateCode": "CG",
+			"districtCode": "\u2013",
+			"district": "Balod",
+			"headquarters": "Balod",
+			"population": 826165,
+			"area": 3527,
+			"density": 234
+		},
+		{
+			"state": "Chhattisgarh",
+			"stateCode": "CG",
+			"districtCode": "\u2013",
+			"district": "Baloda Bazar",
+			"headquarters": "Baloda Bazar",
+			"population": 1305343,
+			"area": 4748,
+			"density": 275
+		},
+		{
+			"state": "Chhattisgarh",
+			"stateCode": "CG",
+			"districtCode": "\u2013",
+			"district": "Balrampur-Ramanujganj",
+			"headquarters": "Balrampur",
+			"population": 730491,
+			"area": 3806,
+			"density": 190
+		},
+		{
+			"state": "Chhattisgarh",
+			"stateCode": "CG",
+			"districtCode": "BA",
+			"district": "Bastar",
+			"headquarters": "Jagdalpur",
+			"population": 834873,
+			"area": 4030,
+			"density": 210
+		},
+		{
+			"state": "Chhattisgarh",
+			"stateCode": "CG",
+			"districtCode": "\u2013",
+			"district": "Bemetara",
+			"headquarters": "Bemetara",
+			"population": 795759,
+			"area": 2855,
+			"density": 270
+		},
+		{
+			"state": "Chhattisgarh",
+			"stateCode": "CG",
+			"districtCode": "BJ",
+			"district": "Bijapur",
+			"headquarters": "Bijapur",
+			"population": 229832,
+			"area": 6562,
+			"density": 35
+		},
+		{
+			"state": "Chhattisgarh",
+			"stateCode": "CG",
+			"districtCode": "BI",
+			"district": "Bilaspur",
+			"headquarters": "Bilaspur",
+			"population": 1961922,
+			"area": 3508,
+			"density": 460
+		},
+		{
+			"state": "Chhattisgarh",
+			"stateCode": "CG",
+			"districtCode": "DA",
+			"district": "Dantewada",
+			"headquarters": "Dantewada",
+			"population": 533638,
+			"area": 3411,
+			"density": 59
+		},
+		{
+			"state": "Chhattisgarh",
+			"stateCode": "CG",
+			"districtCode": "DH",
+			"district": "Dhamtari",
+			"headquarters": "Dhamtari",
+			"population": 799199,
+			"area": 2029,
+			"density": 394
+		},
+		{
+			"state": "Chhattisgarh",
+			"stateCode": "CG",
+			"districtCode": "DU",
+			"district": "Durg",
+			"headquarters": "Durg",
+			"population": 1721726,
+			"area": 2238,
+			"density": 770
+		},
+		{
+			"state": "Chhattisgarh",
+			"stateCode": "CG",
+			"districtCode": "\u2013",
+			"district": "Gariaband",
+			"headquarters": "Gariaband",
+			"population": 597653,
+			"area": 5823,
+			"density": 103
+		},
+		{
+			"state": "Chhattisgarh",
+			"stateCode": "CG",
+			"districtCode": "\u2013",
+			"district": "Gaurela-Pendra-Marwahi",
+			"headquarters": "Gaurela",
+			"population": 336420,
+			"area": 2307,
+			"density": 150
+		},
+		{
+			"state": "Chhattisgarh",
+			"stateCode": "CG",
+			"districtCode": "JC",
+			"district": "Janjgir-Champa",
+			"headquarters": "Janjgir",
+			"population": 1620632,
+			"area": 3848,
+			"density": 421
+		},
+		{
+			"state": "Chhattisgarh",
+			"stateCode": "CG",
+			"districtCode": "JA",
+			"district": "Jashpur",
+			"headquarters": "Jashpur Nagar",
+			"population": 852043,
+			"area": 5825,
+			"density": 146
+		},
+		{
+			"state": "Chhattisgarh",
+			"stateCode": "CG",
+			"districtCode": "KW",
+			"district": "Kabirdham",
+			"headquarters": "Kawardha",
+			"population": 584667,
+			"area": 4237,
+			"density": 195
+		},
+		{
+			"state": "Chhattisgarh",
+			"stateCode": "CG",
+			"districtCode": "KK",
+			"district": "Kanker",
+			"headquarters": "Kanker",
+			"population": 748593,
+			"area": 6513,
+			"density": 115
+		},
+		{
+			"state": "Chhattisgarh",
+			"stateCode": "CG",
+			"districtCode": "\u2013",
+			"district": "Khairagarh-Chhuikhadan-Gandai",
+			"headquarters": "Khairagarh",
+			"population": 368444,
+			"area": 0,
+			"density": 0
+		},
+		{
+			"state": "Chhattisgarh",
+			"stateCode": "CG",
+			"districtCode": "\u2013",
+			"district": "Kondagaon",
+			"headquarters": "Kondagaon",
+			"population": 578326,
+			"area": 7768,
+			"density": 74
+		},
+		{
+			"state": "Chhattisgarh",
+			"stateCode": "CG",
+			"districtCode": "KB",
+			"district": "Korba",
+			"headquarters": "Korba",
+			"population": 1206563,
+			"area": 6615,
+			"density": 183
+		},
+		{
+			"state": "Chhattisgarh",
+			"stateCode": "CG",
+			"districtCode": "KJ",
+			"district": "Korea",
+			"headquarters": "Baikunthpur",
+			"population": 659039,
+			"area": 6578,
+			"density": 100
+		},
+		{
+			"state": "Chhattisgarh",
+			"stateCode": "CG",
+			"districtCode": "MA",
+			"district": "Mahasamund",
+			"headquarters": "Mahasamund",
+			"population": 1032275,
+			"area": 4779,
+			"density": 216
+		},
+		{
+			"state": "Chhattisgarh",
+			"stateCode": "CG",
+			"districtCode": "MG",
+			"district": "Manendragarh-Chirmiri-Bharatpur",
+			"headquarters": "Manendragarh",
+			"population": 422248,
+			"area": 1726,
+			"density": 0
+		},
+		{
+			"state": "Chhattisgarh",
+			"stateCode": "CG",
+			"districtCode": "MM",
+			"district": "Mohla-Manpur-Ambagarh Chowki",
+			"headquarters": "Mohla",
+			"population": 283947,
+			"area": 0,
+			"density": 0
+		},
+		{
+			"state": "Chhattisgarh",
+			"stateCode": "CG",
+			"districtCode": "\u2013",
+			"district": "Mungeli",
+			"headquarters": "Mungeli",
+			"population": 701707,
+			"area": 2750,
+			"density": 255
+		},
+		{
+			"state": "Chhattisgarh",
+			"stateCode": "CG",
+			"districtCode": "NR",
+			"district": "Narayanpur",
+			"headquarters": "Narayanpur",
+			"population": 140206,
+			"area": 6640,
+			"density": 20
+		},
+		{
+			"state": "Chhattisgarh",
+			"stateCode": "CG",
+			"districtCode": "RG",
+			"district": "Raigarh",
+			"headquarters": "Raigarh",
+			"population": 1493627,
+			"area": 7068,
+			"density": 211
+		},
+		{
+			"state": "Chhattisgarh",
+			"stateCode": "CG",
+			"districtCode": "RP",
+			"district": "Raipur",
+			"headquarters": "Raipur",
+			"population": 2160876,
+			"area": 2892,
+			"density": 750
+		},
+		{
+			"state": "Chhattisgarh",
+			"stateCode": "CG",
+			"districtCode": "RN",
+			"district": "Rajnandgaon",
+			"headquarters": "Rajnandgaon",
+			"population": 1537520,
+			"area": 8062,
+			"density": 191
+		},
+		{
+			"state": "Chhattisgarh",
+			"stateCode": "CG",
+			"districtCode": "SB",
+			"district": "Sarangarh-Bilaigarh",
+			"headquarters": "Sarangarh",
+			"population": 607434,
+			"area": 0,
+			"density": 0
+		},
+		{
+			"state": "Chhattisgarh",
+			"stateCode": "CG",
+			"districtCode": "ST",
+			"district": "Shakti",
+			"headquarters": "Sakti",
+			"population": 653036,
+			"area": 0,
+			"density": 0
+		},
+		{
+			"state": "Chhattisgarh",
+			"stateCode": "CG",
+			"districtCode": "SK",
+			"district": "Sukma",
+			"headquarters": "Sukma",
+			"population": 250159,
+			"area": 5897,
+			"density": 42
+		},
+		{
+			"state": "Chhattisgarh",
+			"stateCode": "CG",
+			"districtCode": "\u2013",
+			"district": "Surajpur",
+			"headquarters": "Surajpur",
+			"population": 789043,
+			"area": 2787,
+			"density": 280
+		},
+		{
+			"state": "Chhattisgarh",
+			"stateCode": "CG",
+			"districtCode": "SJ",
+			"district": "Surguja",
+			"headquarters": "Ambikapur",
+			"population": 839661,
+			"area": 3265,
+			"density": 150
+		},
+		{
+			"state": "Goa",
+			"stateCode": "GA",
+			"districtCode": "NG",
+			"district": "North Goa",
+			"headquarters": "Panaji",
+			"population": 817761,
+			"area": 1736,
+			"density": 471
+		},
+		{
+			"state": "Goa",
+			"stateCode": "GA",
+			"districtCode": "SG",
+			"district": "South Goa",
+			"headquarters": "Margao",
+			"population": 639962,
+			"area": 1966,
+			"density": 326
+		},
+		{
+			"state": "Gujarat",
+			"stateCode": "GJ",
+			"districtCode": "AH",
+			"district": "Ahmedabad",
+			"headquarters": "Ahmedabad",
+			"population": 7208200,
+			"area": 7170,
+			"density": 890
+		},
+		{
+			"state": "Gujarat",
+			"stateCode": "GJ",
+			"districtCode": "AM",
+			"district": "Amreli",
+			"headquarters": "Amreli",
+			"population": 1513614,
+			"area": 6760,
+			"density": 205
+		},
+		{
+			"state": "Gujarat",
+			"stateCode": "GJ",
+			"districtCode": "AN",
+			"district": "Anand",
+			"headquarters": "Anand",
+			"population": 2090276,
+			"area": 2942,
+			"density": 711
+		},
+		{
+			"state": "Gujarat",
+			"stateCode": "GJ",
+			"districtCode": "AR",
+			"district": "Aravalli",
+			"headquarters": "Modasa",
+			"population": 1051746,
+			"area": 3217,
+			"density": 327
+		},
+		{
+			"state": "Gujarat",
+			"stateCode": "GJ",
+			"districtCode": "BK",
+			"district": "Banaskantha",
+			"headquarters": "Palanpur",
+			"population": 3116045,
+			"area": 12703,
+			"density": 290
+		},
+		{
+			"state": "Gujarat",
+			"stateCode": "GJ",
+			"districtCode": "BR",
+			"district": "Bharuch",
+			"headquarters": "Bharuch",
+			"population": 1550822,
+			"area": 6524,
+			"density": 238
+		},
+		{
+			"state": "Gujarat",
+			"stateCode": "GJ",
+			"districtCode": "BV",
+			"district": "Bhavnagar",
+			"headquarters": "Bhavnagar",
+			"population": 2877961,
+			"area": 11155,
+			"density": 288
+		},
+		{
+			"state": "Gujarat",
+			"stateCode": "GJ",
+			"districtCode": "BT",
+			"district": "Botad",
+			"headquarters": "Botad",
+			"population": 656005,
+			"area": 2564,
+			"density": 256
+		},
+		{
+			"state": "Gujarat",
+			"stateCode": "GJ",
+			"districtCode": "CU",
+			"district": "Chhota Udaipur",
+			"headquarters": "Chhota Udaipur",
+			"population": 1071831,
+			"area": 3237,
+			"density": 331
+		},
+		{
+			"state": "Gujarat",
+			"stateCode": "GJ",
+			"districtCode": "DA",
+			"district": "Dahod",
+			"headquarters": "Dahod",
+			"population": 2126558,
+			"area": 3642,
+			"density": 582
+		},
+		{
+			"state": "Gujarat",
+			"stateCode": "GJ",
+			"districtCode": "DG",
+			"district": "Dang",
+			"headquarters": "Ahwa",
+			"population": 226769,
+			"area": 1764,
+			"density": 129
+		},
+		{
+			"state": "Gujarat",
+			"stateCode": "GJ",
+			"districtCode": "DD",
+			"district": "Devbhumi Dwarka",
+			"headquarters": "Khambhalia",
+			"population": 752484,
+			"area": 5684,
+			"density": 132
+		},
+		{
+			"state": "Gujarat",
+			"stateCode": "GJ",
+			"districtCode": "GA",
+			"district": "Gandhinagar",
+			"headquarters": "Gandhinagar",
+			"population": 1387478,
+			"area": 2163,
+			"density": 660
+		},
+		{
+			"state": "Gujarat",
+			"stateCode": "GJ",
+			"districtCode": "GS",
+			"district": "Gir Somnath",
+			"headquarters": "Veraval",
+			"population": 1217477,
+			"area": 3754,
+			"density": 324
+		},
+		{
+			"state": "Gujarat",
+			"stateCode": "GJ",
+			"districtCode": "JA",
+			"district": "Jamnagar",
+			"headquarters": "Jamnagar",
+			"population": 2159130,
+			"area": 14125,
+			"density": 153
+		},
+		{
+			"state": "Gujarat",
+			"stateCode": "GJ",
+			"districtCode": "JU",
+			"district": "Junagadh",
+			"headquarters": "Junagadh",
+			"population": 2742291,
+			"area": 8839,
+			"density": 310
+		},
+		{
+			"state": "Gujarat",
+			"stateCode": "GJ",
+			"districtCode": "KH",
+			"district": "Kheda",
+			"headquarters": "Nadiad",
+			"population": 2298934,
+			"area": 4215,
+			"density": 541
+		},
+		{
+			"state": "Gujarat",
+			"stateCode": "GJ",
+			"districtCode": "KA",
+			"district": "Kutch",
+			"headquarters": "Bhuj",
+			"population": 2090313,
+			"area": 45652,
+			"density": 46
+		},
+		{
+			"state": "Gujarat",
+			"stateCode": "GJ",
+			"districtCode": "MH",
+			"district": "Mahisagar",
+			"headquarters": "Lunavada",
+			"population": 994624,
+			"area": 2500,
+			"density": 440
+		},
+		{
+			"state": "Gujarat",
+			"stateCode": "GJ",
+			"districtCode": "MA",
+			"district": "Mehsana",
+			"headquarters": "Mehsana",
+			"population": 2027727,
+			"area": 4386,
+			"density": 462
+		},
+		{
+			"state": "Gujarat",
+			"stateCode": "GJ",
+			"districtCode": "MB",
+			"district": "Morbi",
+			"headquarters": "Morbi",
+			"population": 960329,
+			"area": 4871,
+			"density": 197
+		},
+		{
+			"state": "Gujarat",
+			"stateCode": "GJ",
+			"districtCode": "NR",
+			"district": "Narmada",
+			"headquarters": "Rajpipla",
+			"population": 590379,
+			"area": 2749,
+			"density": 214
+		},
+		{
+			"state": "Gujarat",
+			"stateCode": "GJ",
+			"districtCode": "NV",
+			"district": "Navsari",
+			"headquarters": "Navsari",
+			"population": 1330711,
+			"area": 2211,
+			"density": 602
+		},
+		{
+			"state": "Gujarat",
+			"stateCode": "GJ",
+			"districtCode": "PM",
+			"district": "Panchmahal",
+			"headquarters": "Godhra",
+			"population": 2388267,
+			"area": 5219,
+			"density": 458
+		},
+		{
+			"state": "Gujarat",
+			"stateCode": "GJ",
+			"districtCode": "PA",
+			"district": "Patan",
+			"headquarters": "Patan",
+			"population": 1342746,
+			"area": 5738,
+			"density": 234
+		},
+		{
+			"state": "Gujarat",
+			"stateCode": "GJ",
+			"districtCode": "PO",
+			"district": "Porbandar",
+			"headquarters": "Porbandar",
+			"population": 586062,
+			"area": 2294,
+			"density": 255
+		},
+		{
+			"state": "Gujarat",
+			"stateCode": "GJ",
+			"districtCode": "RA",
+			"district": "Rajkot",
+			"headquarters": "Rajkot",
+			"population": 3157676,
+			"area": 11203,
+			"density": 282
+		},
+		{
+			"state": "Gujarat",
+			"stateCode": "GJ",
+			"districtCode": "SK",
+			"district": "Sabarkantha",
+			"headquarters": "Himatnagar",
+			"population": 2427346,
+			"area": 7390,
+			"density": 328
+		},
+		{
+			"state": "Gujarat",
+			"stateCode": "GJ",
+			"districtCode": "ST",
+			"district": "Surat",
+			"headquarters": "Surat",
+			"population": 6081322,
+			"area": 4418,
+			"density": 953
+		},
+		{
+			"state": "Gujarat",
+			"stateCode": "GJ",
+			"districtCode": "SN",
+			"district": "Surendranagar",
+			"headquarters": "Surendranagar",
+			"population": 1755873,
+			"area": 10489,
+			"density": 167
+		},
+		{
+			"state": "Gujarat",
+			"stateCode": "GJ",
+			"districtCode": "TA",
+			"district": "Tapi",
+			"headquarters": "Vyara",
+			"population": 806489,
+			"area": 3435,
+			"density": 249
+		},
+		{
+			"state": "Gujarat",
+			"stateCode": "GJ",
+			"districtCode": "VD",
+			"district": "Vadodara",
+			"headquarters": "Vadodara",
+			"population": 3639775,
+			"area": 4312,
+			"density": 467
+		},
+		{
+			"state": "Gujarat",
+			"stateCode": "GJ",
+			"districtCode": "VL",
+			"district": "Valsad",
+			"headquarters": "Valsad",
+			"population": 1703068,
+			"area": 3034,
+			"density": 561
+		},
+		{
+			"state": "Haryana",
+			"stateCode": "HR",
+			"districtCode": "AM",
+			"district": "Ambala",
+			"headquarters": "Ambala",
+			"population": 1136784,
+			"area": 1569,
+			"density": 722
+		},
+		{
+			"state": "Haryana",
+			"stateCode": "HR",
+			"districtCode": "BH",
+			"district": "Bhiwani",
+			"headquarters": "Bhiwani",
+			"population": 1629109,
+			"area": 5140,
+			"density": 341
+		},
+		{
+			"state": "Haryana",
+			"stateCode": "HR",
+			"districtCode": "CD",
+			"district": "Charkhi Dadri",
+			"headquarters": "Charkhi Dadri",
+			"population": 502276,
+			"area": 1370,
+			"density": 367
+		},
+		{
+			"state": "Haryana",
+			"stateCode": "HR",
+			"districtCode": "HR",
+			"district": "Faridabad",
+			"headquarters": "Faridabad",
+			"population": 1798954,
+			"area": 783,
+			"density": 2298
+		},
+		{
+			"state": "Haryana",
+			"stateCode": "HR",
+			"districtCode": "FT",
+			"district": "Fatehabad",
+			"headquarters": "Fatehabad",
+			"population": 941522,
+			"area": 2538,
+			"density": 371
+		},
+		{
+			"state": "Haryana",
+			"stateCode": "HR",
+			"districtCode": "GU",
+			"district": "Gurugram",
+			"headquarters": "Gurugram",
+			"population": 1514085,
+			"area": 1258,
+			"density": 1241
+		},
+		{
+			"state": "Haryana",
+			"stateCode": "HR",
+			"districtCode": "HI",
+			"district": "Hisar",
+			"headquarters": "Hisar",
+			"population": 1742815,
+			"area": 3788,
+			"density": 438
+		},
+		{
+			"state": "Haryana",
+			"stateCode": "HR",
+			"districtCode": "JH",
+			"district": "Jhajjar",
+			"headquarters": "Jhajjar",
+			"population": 956907,
+			"area": 1868,
+			"density": 522
+		},
+		{
+			"state": "Haryana",
+			"stateCode": "HR",
+			"districtCode": "JI",
+			"district": "Jind",
+			"headquarters": "Jind",
+			"population": 1332042,
+			"area": 2702,
+			"density": 493
+		},
+		{
+			"state": "Haryana",
+			"stateCode": "HR",
+			"districtCode": "KT",
+			"district": "Kaithal",
+			"headquarters": "Kaithal",
+			"population": 1072861,
+			"area": 2799,
+			"density": 467
+		},
+		{
+			"state": "Haryana",
+			"stateCode": "HR",
+			"districtCode": "KR",
+			"district": "Karnal",
+			"headquarters": "Karnal",
+			"population": 1506323,
+			"area": 2471,
+			"density": 598
+		},
+		{
+			"state": "Haryana",
+			"stateCode": "HR",
+			"districtCode": "KU",
+			"district": "Kurukshetra",
+			"headquarters": "Kurukshetra",
+			"population": 964231,
+			"area": 1530,
+			"density": 630
+		},
+		{
+			"state": "Haryana",
+			"stateCode": "HR",
+			"districtCode": "MA",
+			"district": "Mahendragarh",
+			"headquarters": "Narnaul",
+			"population": 921680,
+			"area": 1900,
+			"density": 485
+		},
+		{
+			"state": "Haryana",
+			"stateCode": "HR",
+			"districtCode": "MW",
+			"district": "Nuh",
+			"headquarters": "Nuh",
+			"population": 1089406,
+			"area": 1765,
+			"density": 729
+		},
+		{
+			"state": "Haryana",
+			"stateCode": "HR",
+			"districtCode": "PW",
+			"district": "Palwal",
+			"headquarters": "Palwal",
+			"population": 1040493,
+			"area": 1367,
+			"density": 761
+		},
+		{
+			"state": "Haryana",
+			"stateCode": "HR",
+			"districtCode": "PK",
+			"district": "Panchkula",
+			"headquarters": "Panchkula",
+			"population": 558890,
+			"area": 816,
+			"density": 622
+		},
+		{
+			"state": "Haryana",
+			"stateCode": "HR",
+			"districtCode": "PP",
+			"district": "Panipat",
+			"headquarters": "Panipat",
+			"population": 1202811,
+			"area": 1250,
+			"density": 949
+		},
+		{
+			"state": "Haryana",
+			"stateCode": "HR",
+			"districtCode": "RE",
+			"district": "Rewari",
+			"headquarters": "Rewari",
+			"population": 896129,
+			"area": 1559,
+			"density": 562
+		},
+		{
+			"state": "Haryana",
+			"stateCode": "HR",
+			"districtCode": "RO",
+			"district": "Rohtak",
+			"headquarters": "Rohtak",
+			"population": 1058683,
+			"area": 1668,
+			"density": 607
+		},
+		{
+			"state": "Haryana",
+			"stateCode": "HR",
+			"districtCode": "SI",
+			"district": "Sirsa",
+			"headquarters": "Sirsa",
+			"population": 1295114,
+			"area": 4276,
+			"density": 303
+		},
+		{
+			"state": "Haryana",
+			"stateCode": "HR",
+			"districtCode": "SNP",
+			"district": "Sonipat",
+			"headquarters": "Sonipat",
+			"population": 1480080,
+			"area": 2260,
+			"density": 697
+		},
+		{
+			"state": "Haryana",
+			"stateCode": "HR",
+			"districtCode": "YN",
+			"district": "Yamunanagar",
+			"headquarters": "Yamunanagar",
+			"population": 1214162,
+			"area": 1756,
+			"density": 687
+		},
+		{
+			"state": "Himachal Pradesh",
+			"stateCode": "HP",
+			"districtCode": "BI",
+			"district": "Bilaspur",
+			"headquarters": "Bilaspur",
+			"population": 382056,
+			"area": 1167,
+			"density": 327
+		},
+		{
+			"state": "Himachal Pradesh",
+			"stateCode": "HP",
+			"districtCode": "CH",
+			"district": "Chamba",
+			"headquarters": "Chamba",
+			"population": 518844,
+			"area": 6528,
+			"density": 80
+		},
+		{
+			"state": "Himachal Pradesh",
+			"stateCode": "HP",
+			"districtCode": "HA",
+			"district": "Hamirpur",
+			"headquarters": "Hamirpur",
+			"population": 454293,
+			"area": 1118,
+			"density": 406
+		},
+		{
+			"state": "Himachal Pradesh",
+			"stateCode": "HP",
+			"districtCode": "KA",
+			"district": "Kangra",
+			"headquarters": "Dharamshala",
+			"population": 1507223,
+			"area": 5739,
+			"density": 263
+		},
+		{
+			"state": "Himachal Pradesh",
+			"stateCode": "HP",
+			"districtCode": "KI",
+			"district": "Kinnaur",
+			"headquarters": "Reckong Peo",
+			"population": 84298,
+			"area": 6401,
+			"density": 13
+		},
+		{
+			"state": "Himachal Pradesh",
+			"stateCode": "HP",
+			"districtCode": "KU",
+			"district": "Kullu",
+			"headquarters": "Kullu",
+			"population": 437474,
+			"area": 5503,
+			"density": 79
+		},
+		{
+			"state": "Himachal Pradesh",
+			"stateCode": "HP",
+			"districtCode": "LS",
+			"district": "Lahaul and Spiti",
+			"headquarters": "Keylong",
+			"population": 31528,
+			"area": 13835,
+			"density": 2
+		},
+		{
+			"state": "Himachal Pradesh",
+			"stateCode": "HP",
+			"districtCode": "MA",
+			"district": "Mandi",
+			"headquarters": "Mandi",
+			"population": 999518,
+			"area": 3950,
+			"density": 253
+		},
+		{
+			"state": "Himachal Pradesh",
+			"stateCode": "HP",
+			"districtCode": "SH",
+			"district": "Shimla",
+			"headquarters": "Shimla",
+			"population": 813384,
+			"area": 5131,
+			"density": 159
+		},
+		{
+			"state": "Himachal Pradesh",
+			"stateCode": "HP",
+			"districtCode": "SI",
+			"district": "Sirmaur",
+			"headquarters": "Nahan",
+			"population": 530164,
+			"area": 2825,
+			"density": 188
+		},
+		{
+			"state": "Himachal Pradesh",
+			"stateCode": "HP",
+			"districtCode": "SO",
+			"district": "Solan",
+			"headquarters": "Solan",
+			"population": 576670,
+			"area": 1936,
+			"density": 298
+		},
+		{
+			"state": "Himachal Pradesh",
+			"stateCode": "HP",
+			"districtCode": "UN",
+			"district": "Una",
+			"headquarters": "Una",
+			"population": 521057,
+			"area": 1540,
+			"density": 328
+		},
+		{
+			"state": "Jharkhand",
+			"stateCode": "JH",
+			"districtCode": "BO",
+			"district": "Bokaro",
+			"headquarters": "Bokaro",
+			"population": 2061918,
+			"area": 2883,
+			"density": 716
+		},
+		{
+			"state": "Jharkhand",
+			"stateCode": "JH",
+			"districtCode": "CH",
+			"district": "Chatra",
+			"headquarters": "Chatra",
+			"population": 1042304,
+			"area": 3700,
+			"density": 275
+		},
+		{
+			"state": "Jharkhand",
+			"stateCode": "JH",
+			"districtCode": "DE",
+			"district": "Deoghar",
+			"headquarters": "Deoghar",
+			"population": 1491879,
+			"area": 2479,
+			"density": 602
+		},
+		{
+			"state": "Jharkhand",
+			"stateCode": "JH",
+			"districtCode": "DH",
+			"district": "Dhanbad",
+			"headquarters": "Dhanbad",
+			"population": 2682662,
+			"area": 2040,
+			"density": 1316
+		},
+		{
+			"state": "Jharkhand",
+			"stateCode": "JH",
+			"districtCode": "DU",
+			"district": "Dumka",
+			"headquarters": "Dumka",
+			"population": 1321096,
+			"area": 4404,
+			"density": 300
+		},
+		{
+			"state": "Jharkhand",
+			"stateCode": "JH",
+			"districtCode": "ES",
+			"district": "East Singhbhum",
+			"headquarters": "Jamshedpur",
+			"population": 2291032,
+			"area": 3562,
+			"density": 648
+		},
+		{
+			"state": "Jharkhand",
+			"stateCode": "JH",
+			"districtCode": "GA",
+			"district": "Garhwa",
+			"headquarters": "Garhwa",
+			"population": 1322387,
+			"area": 4064,
+			"density": 327
+		},
+		{
+			"state": "Jharkhand",
+			"stateCode": "JH",
+			"districtCode": "GI",
+			"district": "Giridih",
+			"headquarters": "Giridih",
+			"population": 2445203,
+			"area": 4887,
+			"density": 497
+		},
+		{
+			"state": "Jharkhand",
+			"stateCode": "JH",
+			"districtCode": "GO",
+			"district": "Godda",
+			"headquarters": "Godda",
+			"population": 1311382,
+			"area": 2110,
+			"density": 622
+		},
+		{
+			"state": "Jharkhand",
+			"stateCode": "JH",
+			"districtCode": "GU",
+			"district": "Gumla",
+			"headquarters": "Gumla",
+			"population": 1025656,
+			"area": 5360,
+			"density": 191
+		},
+		{
+			"state": "Jharkhand",
+			"stateCode": "JH",
+			"districtCode": "HA",
+			"district": "Hazaribag",
+			"headquarters": "Hazaribag",
+			"population": 1734495,
+			"area": 3555,
+			"density": 488
+		},
+		{
+			"state": "Jharkhand",
+			"stateCode": "JH",
+			"districtCode": "JA",
+			"district": "Jamtara",
+			"headquarters": "Jamtara",
+			"population": 790207,
+			"area": 1802,
+			"density": 439
+		},
+		{
+			"state": "Jharkhand",
+			"stateCode": "JH",
+			"districtCode": "KH",
+			"district": "Khunti",
+			"headquarters": "Khunti",
+			"population": 530299,
+			"area": 2535,
+			"density": 210
+		},
+		{
+			"state": "Jharkhand",
+			"stateCode": "JH",
+			"districtCode": "KO",
+			"district": "Koderma",
+			"headquarters": "Koderma",
+			"population": 716259,
+			"area": 2540,
+			"density": 282
+		},
+		{
+			"state": "Jharkhand",
+			"stateCode": "JH",
+			"districtCode": "LA",
+			"district": "Latehar",
+			"headquarters": "Latehar",
+			"population": 725673,
+			"area": 3630,
+			"density": 200
+		},
+		{
+			"state": "Jharkhand",
+			"stateCode": "JH",
+			"districtCode": "LO",
+			"district": "Lohardaga",
+			"headquarters": "Lohardaga",
+			"population": 461738,
+			"area": 1502,
+			"density": 307
+		},
+		{
+			"state": "Jharkhand",
+			"stateCode": "JH",
+			"districtCode": "PK",
+			"district": "Pakur",
+			"headquarters": "Pakur",
+			"population": 899200,
+			"area": 1805,
+			"density": 498
+		},
+		{
+			"state": "Jharkhand",
+			"stateCode": "JH",
+			"districtCode": "PL",
+			"district": "Palamu",
+			"headquarters": "Daltonganj",
+			"population": 1936319,
+			"area": 4393,
+			"density": 442
+		},
+		{
+			"state": "Jharkhand",
+			"stateCode": "JH",
+			"districtCode": "RM",
+			"district": "Ramgarh",
+			"headquarters": "Ramgarh",
+			"population": 949159,
+			"area": 1341,
+			"density": 708
+		},
+		{
+			"state": "Jharkhand",
+			"stateCode": "JH",
+			"districtCode": "RA",
+			"district": "Ranchi",
+			"headquarters": "Ranchi",
+			"population": 2912022,
+			"area": 5097,
+			"density": 572
+		},
+		{
+			"state": "Jharkhand",
+			"stateCode": "JH",
+			"districtCode": "SA",
+			"district": "Sahibganj",
+			"headquarters": "Sahebganj",
+			"population": 1150038,
+			"area": 2063,
+			"density": 558
+		},
+		{
+			"state": "Jharkhand",
+			"stateCode": "JH",
+			"districtCode": "SK",
+			"district": "Seraikela-Kharsawan",
+			"headquarters": "Seraikela",
+			"population": 1063458,
+			"area": 2657,
+			"density": 401
+		},
+		{
+			"state": "Jharkhand",
+			"stateCode": "JH",
+			"districtCode": "SI",
+			"district": "Simdega",
+			"headquarters": "Simdega",
+			"population": 599813,
+			"area": 3750,
+			"density": 160
+		},
+		{
+			"state": "Jharkhand",
+			"stateCode": "JH",
+			"districtCode": "WS",
+			"district": "West Singhbhum",
+			"headquarters": "Chaibasa",
+			"population": 1501619,
+			"area": 7224,
+			"density": 209
+		},
+		{
+			"state": "Karnataka",
+			"stateCode": "KA",
+			"districtCode": "BK",
+			"district": "Bagalakote",
+			"headquarters": "Bagalakote",
+			"population": 1890826,
+			"area": 6583,
+			"density": 288
+		},
+		{
+			"state": "Karnataka",
+			"stateCode": "KA",
+			"districtCode": "BL",
+			"district": "Ballari",
+			"headquarters": "Ballari",
+			"population": 1400970,
+			"area": 4252,
+			"density": 330
+		},
+		{
+			"state": "Karnataka",
+			"stateCode": "KA",
+			"districtCode": "BG",
+			"district": "Belagavi",
+			"headquarters": "Belagavi",
+			"population": 4778439,
+			"area": 13415,
+			"density": 356
+		},
+		{
+			"state": "Karnataka",
+			"stateCode": "KA",
+			"districtCode": "BR",
+			"district": "Bengaluru Rural",
+			"headquarters": "Bengaluru",
+			"population": 987257,
+			"area": 2239,
+			"density": 441
+		},
+		{
+			"state": "Karnataka",
+			"stateCode": "KA",
+			"districtCode": "BN",
+			"district": "Bengaluru Urban",
+			"headquarters": "Bengaluru",
+			"population": 9588910,
+			"area": 2190,
+			"density": 4378
+		},
+		{
+			"state": "Karnataka",
+			"stateCode": "KA",
+			"districtCode": "BD",
+			"district": "Bidar",
+			"headquarters": "Bidar",
+			"population": 1700018,
+			"area": 5448,
+			"density": 312
+		},
+		{
+			"state": "Karnataka",
+			"stateCode": "KA",
+			"districtCode": "CJ",
+			"district": "Chamarajanagara",
+			"headquarters": "Chamarajanagara",
+			"population": 1020962,
+			"area": 5102,
+			"density": 200
+		},
+		{
+			"state": "Karnataka",
+			"stateCode": "KA",
+			"districtCode": "CK",
+			"district": "Chikkaballapura",
+			"headquarters": "Chikkaballapura",
+			"population": 1254377,
+			"area": 4208,
+			"density": 298
+		},
+		{
+			"state": "Karnataka",
+			"stateCode": "KA",
+			"districtCode": "CK",
+			"district": "Chikkamagaluru",
+			"headquarters": "Chikkamagaluru",
+			"population": 1137753,
+			"area": 7201,
+			"density": 158
+		},
+		{
+			"state": "Karnataka",
+			"stateCode": "KA",
+			"districtCode": "CT",
+			"district": "Chitradurga",
+			"headquarters": "Chitradurga",
+			"population": 1660378,
+			"area": 8437,
+			"density": 197
+		},
+		{
+			"state": "Karnataka",
+			"stateCode": "KA",
+			"districtCode": "DK",
+			"district": "Dakshina Kannada",
+			"headquarters": "Mangalore",
+			"population": 2083625,
+			"area": 4559,
+			"density": 457
+		},
+		{
+			"state": "Karnataka",
+			"stateCode": "KA",
+			"districtCode": "DA",
+			"district": "Davanagere",
+			"headquarters": "Davangere",
+			"population": 1643494,
+			"area": 4460,
+			"density": 370
+		},
+		{
+			"state": "Karnataka",
+			"stateCode": "KA",
+			"districtCode": "DH",
+			"district": "Dharwada",
+			"headquarters": "Dharwada",
+			"population": 1846993,
+			"area": 4265,
+			"density": 434
+		},
+		{
+			"state": "Karnataka",
+			"stateCode": "KA",
+			"districtCode": "GA",
+			"district": "Gadaga",
+			"headquarters": "Gadag-Betageri",
+			"population": 1065235,
+			"area": 4651,
+			"density": 229
+		},
+		{
+			"state": "Karnataka",
+			"stateCode": "KA",
+			"districtCode": "GU",
+			"district": "Kalaburagi",
+			"headquarters": "Kalaburagi",
+			"population": 2564892,
+			"area": 10990,
+			"density": 233
+		},
+		{
+			"state": "Karnataka",
+			"stateCode": "KA",
+			"districtCode": "HS",
+			"district": "Hassan",
+			"headquarters": "Hassan",
+			"population": 1776221,
+			"area": 6814,
+			"density": 261
+		},
+		{
+			"state": "Karnataka",
+			"stateCode": "KA",
+			"districtCode": "HV",
+			"district": "Haveri",
+			"headquarters": "Haveri",
+			"population": 1598506,
+			"area": 4825,
+			"density": 331
+		},
+		{
+			"state": "Karnataka",
+			"stateCode": "KA",
+			"districtCode": "KD",
+			"district": "Kodagu",
+			"headquarters": "Madikeri",
+			"population": 554762,
+			"area": 4102,
+			"density": 135
+		},
+		{
+			"state": "Karnataka",
+			"stateCode": "KA",
+			"districtCode": "KL",
+			"district": "Kolar",
+			"headquarters": "Kolar",
+			"population": 1540231,
+			"area": 4012,
+			"density": 384
+		},
+		{
+			"state": "Karnataka",
+			"stateCode": "KA",
+			"districtCode": "KP",
+			"district": "Koppala",
+			"headquarters": "Koppala",
+			"population": 1391292,
+			"area": 5565,
+			"density": 250
+		},
+		{
+			"state": "Karnataka",
+			"stateCode": "KA",
+			"districtCode": "MA",
+			"district": "Mandya",
+			"headquarters": "Mandya",
+			"population": 1808680,
+			"area": 4961,
+			"density": 365
+		},
+		{
+			"state": "Karnataka",
+			"stateCode": "KA",
+			"districtCode": "MY",
+			"district": "Mysuru",
+			"headquarters": "Mysuru",
+			"population": 2994744,
+			"area": 6854,
+			"density": 437
+		},
+		{
+			"state": "Karnataka",
+			"stateCode": "KA",
+			"districtCode": "RA",
+			"district": "Raichuru",
+			"headquarters": "Raichuru",
+			"population": 1924773,
+			"area": 6839,
+			"density": 228
+		},
+		{
+			"state": "Karnataka",
+			"stateCode": "KA",
+			"districtCode": "RM",
+			"district": "Ramanagara",
+			"headquarters": "Ramanagara",
+			"population": 1082739,
+			"area": 3573,
+			"density": 303
+		},
+		{
+			"state": "Karnataka",
+			"stateCode": "KA",
+			"districtCode": "SH",
+			"district": "Shivamogga",
+			"headquarters": "Shivamogga",
+			"population": 1755512,
+			"area": 8495,
+			"density": 207
+		},
+		{
+			"state": "Karnataka",
+			"stateCode": "KA",
+			"districtCode": "TU",
+			"district": "Tumakuru",
+			"headquarters": "Tumakuru",
+			"population": 2681449,
+			"area": 10598,
+			"density": 253
+		},
+		{
+			"state": "Karnataka",
+			"stateCode": "KA",
+			"districtCode": "UD",
+			"district": "Udupi",
+			"headquarters": "Udupi",
+			"population": 1177908,
+			"area": 3879,
+			"density": 304
+		},
+		{
+			"state": "Karnataka",
+			"stateCode": "KA",
+			"districtCode": "UK",
+			"district": "Uttara Kannada",
+			"headquarters": "Karwar",
+			"population": 1353299,
+			"area": 10291,
+			"density": 132
+		},
+		{
+			"state": "Karnataka",
+			"stateCode": "KA",
+			"districtCode": "",
+			"district": "Vijayanagara",
+			"headquarters": "Hospete",
+			"population": 1353628,
+			"area": 5644,
+			"density": 240
+		},
+		{
+			"state": "Karnataka",
+			"stateCode": "KA",
+			"districtCode": "BJ",
+			"district": "Vijayapura",
+			"headquarters": "Vijayapura",
+			"population": 2175102,
+			"area": 10517,
+			"density": 207
+		},
+		{
+			"state": "Karnataka",
+			"stateCode": "KA",
+			"districtCode": "YG",
+			"district": "Yadgiri",
+			"headquarters": "Yadgiri",
+			"population": 1172985,
+			"area": 5225,
+			"density": 224
+		},
+		{
+			"state": "Kerala",
+			"stateCode": "KL",
+			"districtCode": "AL",
+			"district": "Alappuzha",
+			"headquarters": "Alappuzha",
+			"population": 2121943,
+			"area": 1415,
+			"density": 1501
+		},
+		{
+			"state": "Kerala",
+			"stateCode": "KL",
+			"districtCode": "ER",
+			"district": "Ernakulam",
+			"headquarters": "Kakkanad",
+			"population": 3279860,
+			"area": 3063,
+			"density": 1069
+		},
+		{
+			"state": "Kerala",
+			"stateCode": "KL",
+			"districtCode": "ID",
+			"district": "Idukki",
+			"headquarters": "Painavu",
+			"population": 1107453,
+			"area": 4356,
+			"density": 254
+		},
+		{
+			"state": "Kerala",
+			"stateCode": "KL",
+			"districtCode": "KN",
+			"district": "Kannur",
+			"headquarters": "Kannur",
+			"population": 2525637,
+			"area": 2961,
+			"density": 852
+		},
+		{
+			"state": "Kerala",
+			"stateCode": "KL",
+			"districtCode": "KS",
+			"district": "Kasaragod",
+			"headquarters": "Kasaragod",
+			"population": 1302600,
+			"area": 1989,
+			"density": 654
+		},
+		{
+			"state": "Kerala",
+			"stateCode": "KL",
+			"districtCode": "KL",
+			"district": "Kollam",
+			"headquarters": "Kollam",
+			"population": 2629703,
+			"area": 2483,
+			"density": 1056
+		},
+		{
+			"state": "Kerala",
+			"stateCode": "KL",
+			"districtCode": "KT",
+			"district": "Kottayam",
+			"headquarters": "Kottayam",
+			"population": 1979384,
+			"area": 2206,
+			"density": 896
+		},
+		{
+			"state": "Kerala",
+			"stateCode": "KL",
+			"districtCode": "KZ",
+			"district": "Kozhikode",
+			"headquarters": "Kozhikode",
+			"population": 3089543,
+			"area": 2345,
+			"density": 1318
+		},
+		{
+			"state": "Kerala",
+			"stateCode": "KL",
+			"districtCode": "MA",
+			"district": "Malappuram",
+			"headquarters": "Malappuram",
+			"population": 4110956,
+			"area": 3554,
+			"density": 1058
+		},
+		{
+			"state": "Kerala",
+			"stateCode": "KL",
+			"districtCode": "PL",
+			"district": "Palakkad",
+			"headquarters": "Palakkad",
+			"population": 2810892,
+			"area": 4482,
+			"density": 627
+		},
+		{
+			"state": "Kerala",
+			"stateCode": "KL",
+			"districtCode": "PT",
+			"district": "Pathanamthitta",
+			"headquarters": "Pathanamthitta",
+			"population": 1195537,
+			"area": 2652,
+			"density": 453
+		},
+		{
+			"state": "Kerala",
+			"stateCode": "KL",
+			"districtCode": "TV",
+			"district": "Thiruvananthapuram",
+			"headquarters": "Thiruvananthapuram",
+			"population": 3307284,
+			"area": 2189,
+			"density": 1509
+		},
+		{
+			"state": "Kerala",
+			"stateCode": "KL",
+			"districtCode": "TS",
+			"district": "Thrissur",
+			"headquarters": "Thrissur",
+			"population": 3110327,
+			"area": 3027,
+			"density": 1026
+		},
+		{
+			"state": "Kerala",
+			"stateCode": "KL",
+			"districtCode": "WA",
+			"district": "Wayanad",
+			"headquarters": "Kalpetta",
+			"population": 816558,
+			"area": 2130,
+			"density": 383
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "AG",
+			"district": "Agar Malwa",
+			"headquarters": "Agar",
+			"population": 571275,
+			"area": 2785,
+			"density": 205
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "AL",
+			"district": "Alirajpur",
+			"headquarters": "Alirajpur",
+			"population": 728677,
+			"area": 3182,
+			"density": 229
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "AP",
+			"district": "Anuppur",
+			"headquarters": "Anuppur",
+			"population": 749521,
+			"area": 3747,
+			"density": 200
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "AS",
+			"district": "Ashoknagar",
+			"headquarters": "Ashoknagar",
+			"population": 844979,
+			"area": 4674,
+			"density": 181
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "BL",
+			"district": "Balaghat",
+			"headquarters": "Balaghat",
+			"population": 1701156,
+			"area": 9229,
+			"density": 184
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "BR",
+			"district": "Barwani",
+			"headquarters": "Barwani",
+			"population": 1385659,
+			"area": 5432,
+			"density": 256
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "BE",
+			"district": "Betul",
+			"headquarters": "Betul",
+			"population": 1575247,
+			"area": 10043,
+			"density": 157
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "BD",
+			"district": "Bhind",
+			"headquarters": "Bhind",
+			"population": 1703562,
+			"area": 4459,
+			"density": 382
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "BP",
+			"district": "Bhopal",
+			"headquarters": "Bhopal",
+			"population": 2368145,
+			"area": 2772,
+			"density": 854
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "BU",
+			"district": "Burhanpur",
+			"headquarters": "Burhanpur",
+			"population": 756993,
+			"area": 3427,
+			"density": 221
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "CT",
+			"district": "Chhatarpur",
+			"headquarters": "Chhatarpur",
+			"population": 1762857,
+			"area": 8687,
+			"density": 203
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "CN",
+			"district": "Chhindwara",
+			"headquarters": "Chhindwara",
+			"population": 2090306,
+			"area": 11815,
+			"density": 177
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "DM",
+			"district": "Damoh",
+			"headquarters": "Damoh",
+			"population": 1263703,
+			"area": 7306,
+			"density": 173
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "DT",
+			"district": "Datia",
+			"headquarters": "Datia",
+			"population": 786375,
+			"area": 2694,
+			"density": 292
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "DE",
+			"district": "Dewas",
+			"headquarters": "Dewas",
+			"population": 1563107,
+			"area": 7020,
+			"density": 223
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "DH",
+			"district": "Dhar",
+			"headquarters": "Dhar",
+			"population": 2184672,
+			"area": 8153,
+			"density": 268
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "DI",
+			"district": "Dindori",
+			"headquarters": "Dindori",
+			"population": 704218,
+			"area": 7427,
+			"density": 94
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "GU",
+			"district": "Guna",
+			"headquarters": "Guna",
+			"population": 1240938,
+			"area": 6485,
+			"density": 194
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "GW",
+			"district": "Gwalior",
+			"headquarters": "Gwalior",
+			"population": 2030543,
+			"area": 5465,
+			"density": 445
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "HA",
+			"district": "Harda",
+			"headquarters": "Harda",
+			"population": 570302,
+			"area": 3339,
+			"density": 171
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "NA",
+			"district": "Hoshangabad",
+			"headquarters": "Hoshangabad",
+			"population": 1240975,
+			"area": 6698,
+			"density": 185
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "IN",
+			"district": "Indore",
+			"headquarters": "Indore",
+			"population": 3272335,
+			"area": 3898,
+			"density": 839
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "JA",
+			"district": "Jabalpur",
+			"headquarters": "Jabalpur",
+			"population": 2460714,
+			"area": 5210,
+			"density": 472
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "JH",
+			"district": "Jhabua",
+			"headquarters": "Jhabua",
+			"population": 1024091,
+			"area": 6782,
+			"density": 285
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "KA",
+			"district": "Katni",
+			"headquarters": "Katni",
+			"population": 1291684,
+			"area": 4947,
+			"density": 261
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "EN",
+			"district": "Khandwa",
+			"headquarters": "Khandwa",
+			"population": 1309443,
+			"area": 7349,
+			"density": 178
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "WN",
+			"district": "Khargone",
+			"headquarters": "Khargone",
+			"population": 1872413,
+			"area": 8010,
+			"density": 233
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "ML",
+			"district": "Mandla",
+			"headquarters": "Mandla",
+			"population": 1053522,
+			"area": 5805,
+			"density": 182
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "MS",
+			"district": "Mandsaur",
+			"headquarters": "Mandsaur",
+			"population": 1339832,
+			"area": 5530,
+			"density": 242
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "MO",
+			"district": "Morena",
+			"headquarters": "Morena",
+			"population": 1965137,
+			"area": 4991,
+			"density": 394
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "NA",
+			"district": "Narsinghpur",
+			"headquarters": "Narsinghpur",
+			"population": 1092141,
+			"area": 5133,
+			"density": 213
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "NE",
+			"district": "Neemuch",
+			"headquarters": "Neemuch",
+			"population": 825958,
+			"area": 4267,
+			"density": 194
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "\u2013",
+			"district": "Niwari",
+			"headquarters": "Niwari",
+			"population": 404807,
+			"area": 1170,
+			"density": 345
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "PA",
+			"district": "Panna",
+			"headquarters": "Panna",
+			"population": 1016028,
+			"area": 7135,
+			"density": 142
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "RS",
+			"district": "Raisen",
+			"headquarters": "Raisen",
+			"population": 1331699,
+			"area": 8466,
+			"density": 157
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "RG",
+			"district": "Rajgarh",
+			"headquarters": "Rajgarh",
+			"population": 1546541,
+			"area": 6143,
+			"density": 251
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "RL",
+			"district": "Ratlam",
+			"headquarters": "Ratlam",
+			"population": 1454483,
+			"area": 4861,
+			"density": 299
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "RE",
+			"district": "Rewa",
+			"headquarters": "Rewa",
+			"population": 2363744,
+			"area": 6314,
+			"density": 374
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "SG",
+			"district": "Sagar",
+			"headquarters": "Sagar",
+			"population": 2378295,
+			"area": 10252,
+			"density": 272
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "ST",
+			"district": "Satna",
+			"headquarters": "Satna",
+			"population": 2228619,
+			"area": 7502,
+			"density": 297
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "SR",
+			"district": "Sehore",
+			"headquarters": "Sehore",
+			"population": 1311008,
+			"area": 6578,
+			"density": 199
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "SO",
+			"district": "Seoni",
+			"headquarters": "Seoni",
+			"population": 1378876,
+			"area": 8758,
+			"density": 157
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "SH",
+			"district": "Shahdol",
+			"headquarters": "Shahdol",
+			"population": 1064989,
+			"area": 6205,
+			"density": 172
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "SJ",
+			"district": "Shajapur",
+			"headquarters": "Shajapur",
+			"population": 1512353,
+			"area": 6196,
+			"density": 244
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "SP",
+			"district": "Sheopur",
+			"headquarters": "Sheopur",
+			"population": 687952,
+			"area": 6585,
+			"density": 104
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "SV",
+			"district": "Shivpuri",
+			"headquarters": "Shivpuri",
+			"population": 1725818,
+			"area": 10290,
+			"density": 168
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "SI",
+			"district": "Sidhi",
+			"headquarters": "Sidhi",
+			"population": 1126515,
+			"area": 10520,
+			"density": 232
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "SN",
+			"district": "Singrauli",
+			"headquarters": "Waidhan",
+			"population": 1178132,
+			"area": 5672,
+			"density": 208
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "TI",
+			"district": "Tikamgarh",
+			"headquarters": "Tikamgarh",
+			"population": 1444920,
+			"area": 5055,
+			"density": 286
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "UJ",
+			"district": "Ujjain",
+			"headquarters": "Ujjain",
+			"population": 1986864,
+			"area": 6091,
+			"density": 356
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "UM",
+			"district": "Umaria",
+			"headquarters": "Umaria",
+			"population": 643579,
+			"area": 4062,
+			"density": 158
+		},
+		{
+			"state": "Madhya Pradesh",
+			"stateCode": "MP",
+			"districtCode": "VI",
+			"district": "Vidisha",
+			"headquarters": "Vidisha",
+			"population": 1458212,
+			"area": 7362,
+			"density": 198
+		},
+		{
+			"state": "Maharashtra",
+			"stateCode": "MH",
+			"districtCode": "AH",
+			"district": "Ahmednagar",
+			"headquarters": "Ahmednagar",
+			"population": 4543083,
+			"area": 17048,
+			"density": 266
+		},
+		{
+			"state": "Maharashtra",
+			"stateCode": "MH",
+			"districtCode": "AK",
+			"district": "Akola",
+			"headquarters": "Akola",
+			"population": 1818617,
+			"area": 5429,
+			"density": 321
+		},
+		{
+			"state": "Maharashtra",
+			"stateCode": "MH",
+			"districtCode": "AM",
+			"district": "Amravati",
+			"headquarters": "Amravati",
+			"population": 2887826,
+			"area": 12235,
+			"density": 237
+		},
+		{
+			"state": "Maharashtra",
+			"stateCode": "MH",
+			"districtCode": "BI",
+			"district": "Beed",
+			"headquarters": "Beed",
+			"population": 2585962,
+			"area": 10693,
+			"density": 242
+		},
+		{
+			"state": "Maharashtra",
+			"stateCode": "MH",
+			"districtCode": "BH",
+			"district": "Bhandara",
+			"headquarters": "Bhandara",
+			"population": 1198810,
+			"area": 3890,
+			"density": 293
+		},
+		{
+			"state": "Maharashtra",
+			"stateCode": "MH",
+			"districtCode": "BU",
+			"district": "Buldhana",
+			"headquarters": "Buldhana",
+			"population": 2588039,
+			"area": 9661,
+			"density": 268
+		},
+		{
+			"state": "Maharashtra",
+			"stateCode": "MH",
+			"districtCode": "CH",
+			"district": "Chandrapur",
+			"headquarters": "Chandrapur",
+			"population": 2194262,
+			"area": 11443,
+			"density": 192
+		},
+		{
+			"state": "Maharashtra",
+			"stateCode": "MH",
+			"districtCode": "OS",
+			"district": "Osmanabad",
+			"headquarters": "Osmanabad",
+			"population": 1660311,
+			"area": 7569,
+			"density": 219
+		},
+		{
+			"state": "Maharashtra",
+			"stateCode": "MH",
+			"districtCode": "DH",
+			"district": "Dhule",
+			"headquarters": "Dhule",
+			"population": 2048781,
+			"area": 8095,
+			"density": 285
+		},
+		{
+			"state": "Maharashtra",
+			"stateCode": "MH",
+			"districtCode": "GA",
+			"district": "Gadchiroli",
+			"headquarters": "Gadchiroli",
+			"population": 1071795,
+			"area": 14412,
+			"density": 74
+		},
+		{
+			"state": "Maharashtra",
+			"stateCode": "MH",
+			"districtCode": "GO",
+			"district": "Gondia",
+			"headquarters": "Gondia",
+			"population": 1322331,
+			"area": 5431,
+			"density": 253
+		},
+		{
+			"state": "Maharashtra",
+			"stateCode": "MH",
+			"districtCode": "HI",
+			"district": "Hingoli",
+			"headquarters": "Hingoli",
+			"population": 1178973,
+			"area": 4526,
+			"density": 244
+		},
+		{
+			"state": "Maharashtra",
+			"stateCode": "MH",
+			"districtCode": "JG",
+			"district": "Jalgaon",
+			"headquarters": "Jalgaon",
+			"population": 4224442,
+			"area": 11765,
+			"density": 359
+		},
+		{
+			"state": "Maharashtra",
+			"stateCode": "MH",
+			"districtCode": "JN",
+			"district": "Jalna",
+			"headquarters": "Jalna",
+			"population": 1958483,
+			"area": 7718,
+			"density": 255
+		},
+		{
+			"state": "Maharashtra",
+			"stateCode": "MH",
+			"districtCode": "KO",
+			"district": "Kolhapur",
+			"headquarters": "Kolhapur",
+			"population": 3874015,
+			"area": 7685,
+			"density": 504
+		},
+		{
+			"state": "Maharashtra",
+			"stateCode": "MH",
+			"districtCode": "LA",
+			"district": "Latur",
+			"headquarters": "Latur",
+			"population": 2455543,
+			"area": 7157,
+			"density": 343
+		},
+		{
+			"state": "Maharashtra",
+			"stateCode": "MH",
+			"districtCode": "MC",
+			"district": "Mumbai City",
+			"headquarters": "Mumbai",
+			"population": 3145966,
+			"area": 157,
+			"density": 20036
+		},
+		{
+			"state": "Maharashtra",
+			"stateCode": "MH",
+			"districtCode": "MU",
+			"district": "Mumbai Suburban",
+			"headquarters": "Bandra (East)",
+			"population": 9332481,
+			"area": 446,
+			"density": 21000
+		},
+		{
+			"state": "Maharashtra",
+			"stateCode": "MH",
+			"districtCode": "ND",
+			"district": "Nanded",
+			"headquarters": "Nanded",
+			"population": 3356566,
+			"area": 10528,
+			"density": 319
+		},
+		{
+			"state": "Maharashtra",
+			"stateCode": "MH",
+			"districtCode": "NB",
+			"district": "Nandurbar",
+			"headquarters": "Nandurbar",
+			"population": 1646177,
+			"area": 5055,
+			"density": 276
+		},
+		{
+			"state": "Maharashtra",
+			"stateCode": "MH",
+			"districtCode": "NG",
+			"district": "Nagpur",
+			"headquarters": "Nagpur",
+			"population": 4653171,
+			"area": 9892,
+			"density": 470
+		},
+		{
+			"state": "Maharashtra",
+			"stateCode": "MH",
+			"districtCode": "NS",
+			"district": "Nashik",
+			"headquarters": "Nashik",
+			"population": 6109052,
+			"area": 15539,
+			"density": 393
+		},
+		{
+			"state": "Maharashtra",
+			"stateCode": "MH",
+			"districtCode": "PL",
+			"district": "Palghar",
+			"headquarters": "Palghar",
+			"population": 2990116,
+			"area": 5344,
+			"density": 560
+		},
+		{
+			"state": "Maharashtra",
+			"stateCode": "MH",
+			"districtCode": "PA",
+			"district": "Parbhani",
+			"headquarters": "Parbhani",
+			"population": 1835982,
+			"area": 6511,
+			"density": 295
+		},
+		{
+			"state": "Maharashtra",
+			"stateCode": "MH",
+			"districtCode": "PU",
+			"district": "Pune",
+			"headquarters": "Pune",
+			"population": 9426959,
+			"area": 15643,
+			"density": 603
+		},
+		{
+			"state": "Maharashtra",
+			"stateCode": "MH",
+			"districtCode": "RG",
+			"district": "Raigad",
+			"headquarters": "Alibag",
+			"population": 2635394,
+			"area": 7152,
+			"density": 368
+		},
+		{
+			"state": "Maharashtra",
+			"stateCode": "MH",
+			"districtCode": "RT",
+			"district": "Ratnagiri",
+			"headquarters": "Ratnagiri",
+			"population": 1612672,
+			"area": 8208,
+			"density": 196
+		},
+		{
+			"state": "Maharashtra",
+			"stateCode": "MH",
+			"districtCode": "AU",
+			"district": "Aurangabad",
+			"headquarters": "Aurangabad",
+			"population": 3695928,
+			"area": 10107,
+			"density": 365
+		},
+		{
+			"state": "Maharashtra",
+			"stateCode": "MH",
+			"districtCode": "SN",
+			"district": "Sangli",
+			"headquarters": "Sangli",
+			"population": 2820575,
+			"area": 8572,
+			"density": 329
+		},
+		{
+			"state": "Maharashtra",
+			"stateCode": "MH",
+			"districtCode": "ST",
+			"district": "Satara",
+			"headquarters": "Satara",
+			"population": 3003922,
+			"area": 10475,
+			"density": 287
+		},
+		{
+			"state": "Maharashtra",
+			"stateCode": "MH",
+			"districtCode": "SI",
+			"district": "Sindhudurg",
+			"headquarters": "Oros",
+			"population": 848868,
+			"area": 5207,
+			"density": 163
+		},
+		{
+			"state": "Maharashtra",
+			"stateCode": "MH",
+			"districtCode": "SO",
+			"district": "Solapur",
+			"headquarters": "Solapur",
+			"population": 4315527,
+			"area": 14895,
+			"density": 290
+		},
+		{
+			"state": "Maharashtra",
+			"stateCode": "MH",
+			"districtCode": "TH",
+			"district": "Thane",
+			"headquarters": "Thane",
+			"population": 8070032,
+			"area": 4214,
+			"density": 1915
+		},
+		{
+			"state": "Maharashtra",
+			"stateCode": "MH",
+			"districtCode": "WR",
+			"district": "Wardha",
+			"headquarters": "Wardha",
+			"population": 1296157,
+			"area": 6309,
+			"density": 205
+		},
+		{
+			"state": "Maharashtra",
+			"stateCode": "MH",
+			"districtCode": "WS",
+			"district": "Washim",
+			"headquarters": "Washim",
+			"population": 1196714,
+			"area": 5155,
+			"density": 244
+		},
+		{
+			"state": "Maharashtra",
+			"stateCode": "MH",
+			"districtCode": "YA",
+			"district": "Yavatmal",
+			"headquarters": "Yavatmal",
+			"population": 2775457,
+			"area": 13582,
+			"density": 204
+		},
+		{
+			"state": "Manipur",
+			"stateCode": "MN",
+			"districtCode": "BPR",
+			"district": "Bishnupur",
+			"headquarters": "Bishnupur",
+			"population": 240363,
+			"area": 496,
+			"density": 415
+		},
+		{
+			"state": "Manipur",
+			"stateCode": "MN",
+			"districtCode": "CDL",
+			"district": "Chandel",
+			"headquarters": "Chandel",
+			"population": 144028,
+			"area": 3317,
+			"density": 37
+		},
+		{
+			"state": "Manipur",
+			"stateCode": "MN",
+			"districtCode": "CCpr",
+			"district": "Churachandpur",
+			"headquarters": "Churachandpur",
+			"population": 271274,
+			"area": 4574,
+			"density": 50
+		},
+		{
+			"state": "Manipur",
+			"stateCode": "MN",
+			"districtCode": "IE",
+			"district": "Imphal East",
+			"headquarters": "Porompat",
+			"population": 452661,
+			"area": 710,
+			"density": 555
+		},
+		{
+			"state": "Manipur",
+			"stateCode": "MN",
+			"districtCode": "IW",
+			"district": "Imphal West",
+			"headquarters": "Lamphelpat",
+			"population": 514683,
+			"area": 519,
+			"density": 847
+		},
+		{
+			"state": "Manipur",
+			"stateCode": "MN",
+			"districtCode": "JBM",
+			"district": "Jiribam",
+			"headquarters": "Jiribam",
+			"population": 43818,
+			"area": 232,
+			"density": 190
+		},
+		{
+			"state": "Manipur",
+			"stateCode": "MN",
+			"districtCode": "KAK",
+			"district": "Kakching",
+			"headquarters": "Kakching",
+			"population": 135481,
+			"area": 190,
+			"density": 710
+		},
+		{
+			"state": "Manipur",
+			"stateCode": "MN",
+			"districtCode": "KJ",
+			"district": "Kamjong",
+			"headquarters": "Kamjong",
+			"population": 45616,
+			"area": 2000,
+			"density": 23
+		},
+		{
+			"state": "Manipur",
+			"stateCode": "MN",
+			"districtCode": "KPI",
+			"district": "Kangpokpi",
+			"headquarters": "Kangpokpi",
+			"population": 193744,
+			"area": 1698,
+			"density": 110
+		},
+		{
+			"state": "Manipur",
+			"stateCode": "MN",
+			"districtCode": "NL",
+			"district": "Noney",
+			"headquarters": "Noney (Longmai)",
+			"population": 0,
+			"area": 0,
+			"density": 0
+		},
+		{
+			"state": "Manipur",
+			"stateCode": "MN",
+			"districtCode": "PZ",
+			"district": "Pherzawl",
+			"headquarters": "Pherzawl",
+			"population": 47250,
+			"area": 2285,
+			"density": 21
+		},
+		{
+			"state": "Manipur",
+			"stateCode": "MN",
+			"districtCode": "SE",
+			"district": "Senapati",
+			"headquarters": "Senapati",
+			"population": 354772,
+			"area": 3269,
+			"density": 116
+		},
+		{
+			"state": "Manipur",
+			"stateCode": "MN",
+			"districtCode": "TML",
+			"district": "Tamenglong",
+			"headquarters": "Tamenglong",
+			"population": 140143,
+			"area": 4391,
+			"density": 25
+		},
+		{
+			"state": "Manipur",
+			"stateCode": "MN",
+			"districtCode": "TNL",
+			"district": "Tengnoupal",
+			"headquarters": "Tengnoupal",
+			"population": 59110,
+			"area": 1213,
+			"density": 49
+		},
+		{
+			"state": "Manipur",
+			"stateCode": "MN",
+			"districtCode": "TBL",
+			"district": "Thoubal",
+			"headquarters": "Thoubal",
+			"population": 420517,
+			"area": 514,
+			"density": 713
+		},
+		{
+			"state": "Manipur",
+			"stateCode": "MN",
+			"districtCode": "UKR",
+			"district": "Ukhrul",
+			"headquarters": "Ukhrul",
+			"population": 183115,
+			"area": 4547,
+			"density": 31
+		},
+		{
+			"state": "Meghalaya",
+			"stateCode": "ML",
+			"districtCode": "EG",
+			"district": "East Garo Hills",
+			"headquarters": "Williamnagar",
+			"population": 317618,
+			"area": 2603,
+			"density": 121
+		},
+		{
+			"state": "Meghalaya",
+			"stateCode": "ML",
+			"districtCode": "EK",
+			"district": "East Khasi Hills",
+			"headquarters": "Shillong",
+			"population": 824059,
+			"area": 2752,
+			"density": 292
+		},
+		{
+			"state": "Meghalaya",
+			"stateCode": "ML",
+			"districtCode": "\u2013",
+			"district": "East Jaintia Hills",
+			"headquarters": "Khliehriat",
+			"population": 122436,
+			"area": 2115,
+			"density": 58
+		},
+		{
+			"state": "Meghalaya",
+			"stateCode": "ML",
+			"districtCode": "\u2013",
+			"district": "Eastern West Khasi Hills",
+			"headquarters": "Mairang",
+			"population": 131451,
+			"area": 1356,
+			"density": 97
+		},
+		{
+			"state": "Meghalaya",
+			"stateCode": "ML",
+			"districtCode": "\u2013",
+			"district": "North Garo Hills",
+			"headquarters": "Resubelpara",
+			"population": 118325,
+			"area": 1113,
+			"density": 106
+		},
+		{
+			"state": "Meghalaya",
+			"stateCode": "ML",
+			"districtCode": "RB",
+			"district": "Ri Bhoi",
+			"headquarters": "Nongpoh",
+			"population": 258380,
+			"area": 2378,
+			"density": 109
+		},
+		{
+			"state": "Meghalaya",
+			"stateCode": "ML",
+			"districtCode": "SG",
+			"district": "South Garo Hills",
+			"headquarters": "Baghmara",
+			"population": 142574,
+			"area": 1850,
+			"density": 77
+		},
+		{
+			"state": "Meghalaya",
+			"stateCode": "ML",
+			"districtCode": "\u2013",
+			"district": "South West Garo Hills",
+			"headquarters": "Ampati",
+			"population": 172495,
+			"area": 822,
+			"density": 210
+		},
+		{
+			"state": "Meghalaya",
+			"stateCode": "ML",
+			"districtCode": "\u2013",
+			"district": "South West Khasi Hills",
+			"headquarters": "Mawkyrwat",
+			"population": 110152,
+			"area": 1341,
+			"density": 82
+		},
+		{
+			"state": "Meghalaya",
+			"stateCode": "ML",
+			"districtCode": "WG",
+			"district": "West Garo Hills",
+			"headquarters": "Tura",
+			"population": 642923,
+			"area": 3714,
+			"density": 173
+		},
+		{
+			"state": "Meghalaya",
+			"stateCode": "ML",
+			"districtCode": "WJ",
+			"district": "West Jaintia Hills",
+			"headquarters": "Jowai",
+			"population": 270352,
+			"area": 1693,
+			"density": 160
+		},
+		{
+			"state": "Meghalaya",
+			"stateCode": "ML",
+			"districtCode": "WK",
+			"district": "West Khasi Hills",
+			"headquarters": "Nongstoin",
+			"population": 385601,
+			"area": 5247,
+			"density": 73
+		},
+		{
+			"state": "Mizoram",
+			"stateCode": "MZ",
+			"districtCode": "AI",
+			"district": "Aizawl",
+			"headquarters": "Aizawl",
+			"population": 404054,
+			"area": 3577,
+			"density": 113
+		},
+		{
+			"state": "Mizoram",
+			"stateCode": "MZ",
+			"districtCode": "CH",
+			"district": "Champhai",
+			"headquarters": "Champhai",
+			"population": 125370,
+			"area": 3168,
+			"density": 39
+		},
+		{
+			"state": "Mizoram",
+			"stateCode": "MZ",
+			"districtCode": "-",
+			"district": "Hnahthial",
+			"headquarters": "Hnahthial",
+			"population": 28468,
+			"area": 0,
+			"density": 0
+		},
+		{
+			"state": "Mizoram",
+			"stateCode": "MZ",
+			"districtCode": "-",
+			"district": "Khawzawl",
+			"headquarters": "Khawzawl",
+			"population": 0,
+			"area": 0,
+			"density": 0
+		},
+		{
+			"state": "Mizoram",
+			"stateCode": "MZ",
+			"districtCode": "KO",
+			"district": "Kolasib",
+			"headquarters": "Kolasib",
+			"population": 83054,
+			"area": 1386,
+			"density": 60
+		},
+		{
+			"state": "Mizoram",
+			"stateCode": "MZ",
+			"districtCode": "LA",
+			"district": "Lawngtlai",
+			"headquarters": "Lawngtlai",
+			"population": 117444,
+			"area": 2519,
+			"density": 46
+		},
+		{
+			"state": "Mizoram",
+			"stateCode": "MZ",
+			"districtCode": "LU",
+			"district": "Lunglei",
+			"headquarters": "Lunglei",
+			"population": 154094,
+			"area": 4572,
+			"density": 34
+		},
+		{
+			"state": "Mizoram",
+			"stateCode": "MZ",
+			"districtCode": "MA",
+			"district": "Mamit",
+			"headquarters": "Mamit",
+			"population": 85757,
+			"area": 2967,
+			"density": 28
+		},
+		{
+			"state": "Mizoram",
+			"stateCode": "MZ",
+			"districtCode": "SA",
+			"district": "Saiha",
+			"headquarters": "Saiha",
+			"population": 56366,
+			"area": 1414,
+			"density": 40
+		},
+		{
+			"state": "Mizoram",
+			"stateCode": "MZ",
+			"districtCode": "-",
+			"district": "Saitual",
+			"headquarters": "Saitual",
+			"population": 0,
+			"area": 0,
+			"density": 0
+		},
+		{
+			"state": "Mizoram",
+			"stateCode": "MZ",
+			"districtCode": "SE",
+			"district": "Serchhip",
+			"headquarters": "Serchhip",
+			"population": 64875,
+			"area": 1424,
+			"density": 46
+		},
+		{
+			"state": "Nagaland",
+			"stateCode": "NL",
+			"districtCode": "\u2013",
+			"district": "Ch\u00fcmoukedima",
+			"headquarters": "Ch\u00fcmoukedima",
+			"population": 125400,
+			"area": 570,
+			"density": 220
+		},
+		{
+			"state": "Nagaland",
+			"stateCode": "NL",
+			"districtCode": "DI",
+			"district": "Dimapur",
+			"headquarters": "Dimapur",
+			"population": 379769,
+			"area": 926,
+			"density": 410
+		},
+		{
+			"state": "Nagaland",
+			"stateCode": "NL",
+			"districtCode": "KI",
+			"district": "Kiphire",
+			"headquarters": "Kiphire",
+			"population": 74033,
+			"area": 1255,
+			"density": 66
+		},
+		{
+			"state": "Nagaland",
+			"stateCode": "NL",
+			"districtCode": "KO",
+			"district": "Kohima",
+			"headquarters": "Kohima",
+			"population": 270063,
+			"area": 1041,
+			"density": 213
+		},
+		{
+			"state": "Nagaland",
+			"stateCode": "NL",
+			"districtCode": "LO",
+			"district": "Longleng",
+			"headquarters": "Longleng",
+			"population": 50593,
+			"area": 885,
+			"density": 89
+		},
+		{
+			"state": "Nagaland",
+			"stateCode": "NL",
+			"districtCode": "MK",
+			"district": "Mokokchung",
+			"headquarters": "Mokokchung",
+			"population": 193171,
+			"area": 1615,
+			"density": 120
+		},
+		{
+			"state": "Nagaland",
+			"stateCode": "NL",
+			"districtCode": "MN",
+			"district": "Mon",
+			"headquarters": "Mon",
+			"population": 259604,
+			"area": 1786,
+			"density": 145
+		},
+		{
+			"state": "Nagaland",
+			"stateCode": "NL",
+			"districtCode": "\u2013",
+			"district": "Niuland",
+			"headquarters": "Niuland",
+			"population": 11876,
+			"area": 0,
+			"density": 0
+		},
+		{
+			"state": "Nagaland",
+			"stateCode": "NL",
+			"districtCode": "\u2013",
+			"district": "Noklak",
+			"headquarters": "Noklak",
+			"population": 59300,
+			"area": 1152,
+			"density": 51
+		},
+		{
+			"state": "Nagaland",
+			"stateCode": "NL",
+			"districtCode": "PE",
+			"district": "Peren",
+			"headquarters": "Peren",
+			"population": 163294,
+			"area": 2300,
+			"density": 55
+		},
+		{
+			"state": "Nagaland",
+			"stateCode": "NL",
+			"districtCode": "PH",
+			"district": "Phek",
+			"headquarters": "Phek",
+			"population": 163294,
+			"area": 2026,
+			"density": 81
+		},
+		{
+			"state": "Nagaland",
+			"stateCode": "NL",
+			"districtCode": "\u2013",
+			"district": "Shamator",
+			"headquarters": "Shamator",
+			"population": 34223,
+			"area": 0,
+			"density": 0
+		},
+		{
+			"state": "Nagaland",
+			"stateCode": "NL",
+			"districtCode": "\u2013",
+			"district": "Tseminy\u00fc",
+			"headquarters": "Tseminy\u00fc",
+			"population": 63629,
+			"area": 256,
+			"density": 249
+		},
+		{
+			"state": "Nagaland",
+			"stateCode": "NL",
+			"districtCode": "TU",
+			"district": "Tuensang",
+			"headquarters": "Tuensang",
+			"population": 414801,
+			"area": 4228,
+			"density": 98
+		},
+		{
+			"state": "Nagaland",
+			"stateCode": "NL",
+			"districtCode": "WO",
+			"district": "Wokha",
+			"headquarters": "Wokha",
+			"population": 166239,
+			"area": 1628,
+			"density": 120
+		},
+		{
+			"state": "Nagaland",
+			"stateCode": "NL",
+			"districtCode": "ZU",
+			"district": "Zunheboto",
+			"headquarters": "Zunheboto",
+			"population": 141014,
+			"area": 1255,
+			"density": 112
+		},
+		{
+			"state": "Odisha",
+			"stateCode": "OD",
+			"districtCode": "AN",
+			"district": "Angul",
+			"headquarters": "Angul",
+			"population": 1271703,
+			"area": 6232,
+			"density": 199
+		},
+		{
+			"state": "Odisha",
+			"stateCode": "OD",
+			"districtCode": "BD",
+			"district": "Boudh",
+			"headquarters": "Boudh",
+			"population": 439917,
+			"area": 3098,
+			"density": 142
+		},
+		{
+			"state": "Odisha",
+			"stateCode": "OD",
+			"districtCode": "BH",
+			"district": "Bhadrak",
+			"headquarters": "Bhadrak",
+			"population": 1506522,
+			"area": 2505,
+			"density": 601
+		},
+		{
+			"state": "Odisha",
+			"stateCode": "OD",
+			"districtCode": "BL",
+			"district": "Balangir",
+			"headquarters": "Balangir",
+			"population": 1648574,
+			"area": 6575,
+			"density": 251
+		},
+		{
+			"state": "Odisha",
+			"stateCode": "OD",
+			"districtCode": "BR",
+			"district": "Bargarh",
+			"headquarters": "Bargarh",
+			"population": 1478833,
+			"area": 5837,
+			"density": 253
+		},
+		{
+			"state": "Odisha",
+			"stateCode": "OD",
+			"districtCode": "BW",
+			"district": "Balasore",
+			"headquarters": "Balasore",
+			"population": 2317419,
+			"area": 3634,
+			"density": 609
+		},
+		{
+			"state": "Odisha",
+			"stateCode": "OD",
+			"districtCode": "CU",
+			"district": "Cuttack",
+			"headquarters": "Cuttack",
+			"population": 2618708,
+			"area": 3932,
+			"density": 666
+		},
+		{
+			"state": "Odisha",
+			"stateCode": "OD",
+			"districtCode": "DE",
+			"district": "Debagarh",
+			"headquarters": "Debagarh",
+			"population": 312164,
+			"area": 2781,
+			"density": 106
+		},
+		{
+			"state": "Odisha",
+			"stateCode": "OD",
+			"districtCode": "DH",
+			"district": "Dhenkanal",
+			"headquarters": "Dhenkanal",
+			"population": 1192948,
+			"area": 4452,
+			"density": 268
+		},
+		{
+			"state": "Odisha",
+			"stateCode": "OD",
+			"districtCode": "GN",
+			"district": "Ganjam",
+			"headquarters": "Chhatrapur",
+			"population": 3529031,
+			"area": 8206,
+			"density": 430
+		},
+		{
+			"state": "Odisha",
+			"stateCode": "OD",
+			"districtCode": "GP",
+			"district": "Gajapati",
+			"headquarters": "Paralakhemundi",
+			"population": 575880,
+			"area": 3850,
+			"density": 133
+		},
+		{
+			"state": "Odisha",
+			"stateCode": "OD",
+			"districtCode": "JH",
+			"district": "Jharsuguda",
+			"headquarters": "Jharsuguda",
+			"population": 579499,
+			"area": 2081,
+			"density": 274
+		},
+		{
+			"state": "Odisha",
+			"stateCode": "OD",
+			"districtCode": "JP",
+			"district": "Jajpur",
+			"headquarters": "Jajpur",
+			"population": 1826275,
+			"area": 2888,
+			"density": 630
+		},
+		{
+			"state": "Odisha",
+			"stateCode": "OD",
+			"districtCode": "JS",
+			"district": "Jagatsinghpur",
+			"headquarters": "Jagatsinghpur",
+			"population": 1136604,
+			"area": 1759,
+			"density": 681
+		},
+		{
+			"state": "Odisha",
+			"stateCode": "OD",
+			"districtCode": "KH",
+			"district": "Khordha",
+			"headquarters": "Khordha",
+			"population": 2251673,
+			"area": 2813,
+			"density": 800
+		},
+		{
+			"state": "Odisha",
+			"stateCode": "OD",
+			"districtCode": "KJ",
+			"district": "Kendujhar",
+			"headquarters": "Kendujhar",
+			"population": 1802777,
+			"area": 8240,
+			"density": 217
+		},
+		{
+			"state": "Odisha",
+			"stateCode": "OD",
+			"districtCode": "KL",
+			"district": "Kalahandi",
+			"headquarters": "Bhawanipatna",
+			"population": 1573054,
+			"area": 7920,
+			"density": 199
+		},
+		{
+			"state": "Odisha",
+			"stateCode": "OD",
+			"districtCode": "KN",
+			"district": "Kandhamal",
+			"headquarters": "Phulbani",
+			"population": 731952,
+			"area": 8021,
+			"density": 91
+		},
+		{
+			"state": "Odisha",
+			"stateCode": "OD",
+			"districtCode": "KO",
+			"district": "Koraput",
+			"headquarters": "Koraput",
+			"population": 1376934,
+			"area": 8807,
+			"density": 156
+		},
+		{
+			"state": "Odisha",
+			"stateCode": "OD",
+			"districtCode": "KP",
+			"district": "Kendrapara",
+			"headquarters": "Kendrapara",
+			"population": 1439891,
+			"area": 2644,
+			"density": 545
+		},
+		{
+			"state": "Odisha",
+			"stateCode": "OD",
+			"districtCode": "ML",
+			"district": "Malkangiri",
+			"headquarters": "Malkangiri",
+			"population": 612727,
+			"area": 5791,
+			"density": 106
+		},
+		{
+			"state": "Odisha",
+			"stateCode": "OD",
+			"districtCode": "MY",
+			"district": "Mayurbhanj",
+			"headquarters": "Baripada",
+			"population": 2513895,
+			"area": 10418,
+			"density": 241
+		},
+		{
+			"state": "Odisha",
+			"stateCode": "OD",
+			"districtCode": "NB",
+			"district": "Nabarangpur",
+			"headquarters": "Nabarangpur",
+			"population": 1218762,
+			"area": 5294,
+			"density": 230
+		},
+		{
+			"state": "Odisha",
+			"stateCode": "OD",
+			"districtCode": "NU",
+			"district": "Nuapada",
+			"headquarters": "Nuapada",
+			"population": 606490,
+			"area": 3408,
+			"density": 157
+		},
+		{
+			"state": "Odisha",
+			"stateCode": "OD",
+			"districtCode": "NY",
+			"district": "Nayagarh",
+			"headquarters": "Nayagarh",
+			"population": 962215,
+			"area": 3890,
+			"density": 247
+		},
+		{
+			"state": "Odisha",
+			"stateCode": "OD",
+			"districtCode": "PU",
+			"district": "Puri",
+			"headquarters": "Puri",
+			"population": 1697983,
+			"area": 3051,
+			"density": 488
+		},
+		{
+			"state": "Odisha",
+			"stateCode": "OD",
+			"districtCode": "RA",
+			"district": "Rayagada",
+			"headquarters": "Rayagada",
+			"population": 961959,
+			"area": 7584,
+			"density": 136
+		},
+		{
+			"state": "Odisha",
+			"stateCode": "OD",
+			"districtCode": "SA",
+			"district": "Sambalpur",
+			"headquarters": "Sambalpur",
+			"population": 1044410,
+			"area": 6702,
+			"density": 158
+		},
+		{
+			"state": "Odisha",
+			"stateCode": "OD",
+			"districtCode": "SO",
+			"district": "Subarnapur",
+			"headquarters": "Subarnapur",
+			"population": 652107,
+			"area": 2284,
+			"density": 279
+		},
+		{
+			"state": "Odisha",
+			"stateCode": "OD",
+			"districtCode": "SU",
+			"district": "Sundargarh",
+			"headquarters": "Sundergarh",
+			"population": 2080664,
+			"area": 9712,
+			"density": 214
+		},
+		{
+			"state": "Punjab",
+			"stateCode": "PB",
+			"districtCode": "AM",
+			"district": "Amritsar",
+			"headquarters": "Amritsar",
+			"population": 2490891,
+			"area": 2673,
+			"density": 932
+		},
+		{
+			"state": "Punjab",
+			"stateCode": "PB",
+			"districtCode": "BNL",
+			"district": "Barnala",
+			"headquarters": "Barnala",
+			"population": 596294,
+			"area": 1423,
+			"density": 419
+		},
+		{
+			"state": "Punjab",
+			"stateCode": "PB",
+			"districtCode": "BA",
+			"district": "Bathinda",
+			"headquarters": "Bathinda",
+			"population": 1388859,
+			"area": 3355,
+			"density": 414
+		},
+		{
+			"state": "Punjab",
+			"stateCode": "PB",
+			"districtCode": "FI",
+			"district": "Firozpur",
+			"headquarters": "Firozpur",
+			"population": 2026831,
+			"area": 5334,
+			"density": 380
+		},
+		{
+			"state": "Punjab",
+			"stateCode": "PB",
+			"districtCode": "FR",
+			"district": "Faridkot",
+			"headquarters": "Faridkot",
+			"population": 618008,
+			"area": 1472,
+			"density": 424
+		},
+		{
+			"state": "Punjab",
+			"stateCode": "PB",
+			"districtCode": "FT",
+			"district": "Fatehgarh Sahib",
+			"headquarters": "Fatehgarh Sahib",
+			"population": 599814,
+			"area": 1180,
+			"density": 508
+		},
+		{
+			"state": "Punjab",
+			"stateCode": "PB",
+			"districtCode": "FA",
+			"district": "Fazilka",
+			"headquarters": "Fazilka",
+			"population": 1180483,
+			"area": 3113,
+			"density": 379
+		},
+		{
+			"state": "Punjab",
+			"stateCode": "PB",
+			"districtCode": "GU",
+			"district": "Gurdaspur",
+			"headquarters": "Gurdaspur",
+			"population": 2299026,
+			"area": 3542,
+			"density": 649
+		},
+		{
+			"state": "Punjab",
+			"stateCode": "PB",
+			"districtCode": "HO",
+			"district": "Hoshiarpur",
+			"headquarters": "Hoshiarpur",
+			"population": 1582793,
+			"area": 3397,
+			"density": 466
+		},
+		{
+			"state": "Punjab",
+			"stateCode": "PB",
+			"districtCode": "JA",
+			"district": "Jalandhar",
+			"headquarters": "Jalandhar",
+			"population": 2181753,
+			"area": 2625,
+			"density": 831
+		},
+		{
+			"state": "Punjab",
+			"stateCode": "PB",
+			"districtCode": "KA",
+			"district": "Kapurthala",
+			"headquarters": "Kapurthala",
+			"population": 817668,
+			"area": 1646,
+			"density": 501
+		},
+		{
+			"state": "Punjab",
+			"stateCode": "PB",
+			"districtCode": "LU",
+			"district": "Ludhiana",
+			"headquarters": "Ludhiana",
+			"population": 3487882,
+			"area": 3744,
+			"density": 975
+		},
+		{
+			"state": "Punjab",
+			"stateCode": "PB",
+			"districtCode": "ML",
+			"district": "Malerkotla",
+			"headquarters": "Malerkotla",
+			"population": 429754,
+			"area": 684,
+			"density": 629
+		},
+		{
+			"state": "Punjab",
+			"stateCode": "PB",
+			"districtCode": "MA",
+			"district": "Mansa",
+			"headquarters": "Mansa",
+			"population": 768808,
+			"area": 2174,
+			"density": 350
+		},
+		{
+			"state": "Punjab",
+			"stateCode": "PB",
+			"districtCode": "MO",
+			"district": "Moga",
+			"headquarters": "Moga",
+			"population": 992289,
+			"area": 2235,
+			"density": 444
+		},
+		{
+			"state": "Punjab",
+			"stateCode": "PB",
+			"districtCode": "MU",
+			"district": "Sri Muktsar Sahib",
+			"headquarters": "Sri Muktsar Sahib",
+			"population": 902702,
+			"area": 2596,
+			"density": 348
+		},
+		{
+			"state": "Punjab",
+			"stateCode": "PB",
+			"districtCode": "PA",
+			"district": "Pathankot",
+			"headquarters": "Pathankot",
+			"population": 626154,
+			"area": 929,
+			"density": 674
+		},
+		{
+			"state": "Punjab",
+			"stateCode": "PB",
+			"districtCode": "PA",
+			"district": "Patiala",
+			"headquarters": "Patiala",
+			"population": 2892282,
+			"area": 3175,
+			"density": 596
+		},
+		{
+			"state": "Punjab",
+			"stateCode": "PB",
+			"districtCode": "RU",
+			"district": "Rupnagar",
+			"headquarters": "Rupnagar",
+			"population": 683349,
+			"area": 1400,
+			"density": 488
+		},
+		{
+			"state": "Punjab",
+			"stateCode": "PB",
+			"districtCode": "SAS",
+			"district": "Sahibzada Ajit Singh Nagar",
+			"headquarters": "Sahibzada Ajit Singh Nagar",
+			"population": 986147,
+			"area": 1188,
+			"density": 830
+		},
+		{
+			"state": "Punjab",
+			"stateCode": "PB",
+			"districtCode": "SA",
+			"district": "Sangrur",
+			"headquarters": "Sangrur",
+			"population": 1654408,
+			"area": 3685,
+			"density": 449
+		},
+		{
+			"state": "Punjab",
+			"stateCode": "PB",
+			"districtCode": "PB",
+			"district": "Shahid Bhagat Singh Nagar",
+			"headquarters": "Nawanshehr",
+			"population": 614362,
+			"area": 1283,
+			"density": 479
+		},
+		{
+			"state": "Punjab",
+			"stateCode": "PB",
+			"districtCode": "TT",
+			"district": "Tarn Taran",
+			"headquarters": "Tarn Taran Sahib",
+			"population": 1120070,
+			"area": 2414,
+			"density": 464
+		},
+		{
+			"state": "Rajasthan",
+			"stateCode": "RJ",
+			"districtCode": "AJ",
+			"district": "Ajmer",
+			"headquarters": "Ajmer",
+			"population": 2584913,
+			"area": 8481,
+			"density": 305
+		},
+		{
+			"state": "Rajasthan",
+			"stateCode": "RJ",
+			"districtCode": "AL",
+			"district": "Alwar",
+			"headquarters": "Alwar",
+			"population": 3671999,
+			"area": 8380,
+			"density": 438
+		},
+		{
+			"state": "Rajasthan",
+			"stateCode": "RJ",
+			"districtCode": "BI",
+			"district": "Bikaner",
+			"headquarters": "Bikaner",
+			"population": 2367745,
+			"area": 27244,
+			"density": 78
+		},
+		{
+			"state": "Rajasthan",
+			"stateCode": "RJ",
+			"districtCode": "BM",
+			"district": "Barmer",
+			"headquarters": "Barmer",
+			"population": 2604453,
+			"area": 28387,
+			"density": 92
+		},
+		{
+			"state": "Rajasthan",
+			"stateCode": "RJ",
+			"districtCode": "BN",
+			"district": "Banswara",
+			"headquarters": "Banswara",
+			"population": 1798194,
+			"area": 5037,
+			"density": 399
+		},
+		{
+			"state": "Rajasthan",
+			"stateCode": "RJ",
+			"districtCode": "BP",
+			"district": "Bharatpur",
+			"headquarters": "Bharatpur",
+			"population": 2549121,
+			"area": 5066,
+			"density": 503
+		},
+		{
+			"state": "Rajasthan",
+			"stateCode": "RJ",
+			"districtCode": "BR",
+			"district": "Baran",
+			"headquarters": "Baran",
+			"population": 1223921,
+			"area": 6955,
+			"density": 175
+		},
+		{
+			"state": "Rajasthan",
+			"stateCode": "RJ",
+			"districtCode": "BU",
+			"district": "Bundi",
+			"headquarters": "Bundi",
+			"population": 1113725,
+			"area": 5550,
+			"density": 193
+		},
+		{
+			"state": "Rajasthan",
+			"stateCode": "RJ",
+			"districtCode": "BW",
+			"district": "Bhilwara",
+			"headquarters": "Bhilwara",
+			"population": 2410459,
+			"area": 10455,
+			"density": 230
+		},
+		{
+			"state": "Rajasthan",
+			"stateCode": "RJ",
+			"districtCode": "CR",
+			"district": "Churu",
+			"headquarters": "Churu",
+			"population": 2041172,
+			"area": 16830,
+			"density": 148
+		},
+		{
+			"state": "Rajasthan",
+			"stateCode": "RJ",
+			"districtCode": "CT",
+			"district": "Chittorgarh",
+			"headquarters": "Chittorgarh",
+			"population": 1544392,
+			"area": 10856,
+			"density": 193
+		},
+		{
+			"state": "Rajasthan",
+			"stateCode": "RJ",
+			"districtCode": "DA",
+			"district": "Dausa",
+			"headquarters": "Dausa",
+			"population": 1637226,
+			"area": 3429,
+			"density": 476
+		},
+		{
+			"state": "Rajasthan",
+			"stateCode": "RJ",
+			"districtCode": "DH",
+			"district": "Dholpur",
+			"headquarters": "Dholpur",
+			"population": 1207293,
+			"area": 3084,
+			"density": 398
+		},
+		{
+			"state": "Rajasthan",
+			"stateCode": "RJ",
+			"districtCode": "DU",
+			"district": "Dungarpur",
+			"headquarters": "Dungarpur",
+			"population": 1388906,
+			"area": 3771,
+			"density": 368
+		},
+		{
+			"state": "Rajasthan",
+			"stateCode": "RJ",
+			"districtCode": "GA",
+			"district": "Sri Ganganagar",
+			"headquarters": "Sri Ganganagar",
+			"population": 1969520,
+			"area": 10990,
+			"density": 179
+		},
+		{
+			"state": "Rajasthan",
+			"stateCode": "RJ",
+			"districtCode": "HA",
+			"district": "Hanumangarh",
+			"headquarters": "Hanumangarh",
+			"population": 1779650,
+			"area": 9670,
+			"density": 184
+		},
+		{
+			"state": "Rajasthan",
+			"stateCode": "RJ",
+			"districtCode": "JJ",
+			"district": "Jhunjhunu",
+			"headquarters": "Jhunjhunu",
+			"population": 2139658,
+			"area": 5928,
+			"density": 361
+		},
+		{
+			"state": "Rajasthan",
+			"stateCode": "RJ",
+			"districtCode": "JL",
+			"district": "Jalore",
+			"headquarters": "Jalore",
+			"population": 1830151,
+			"area": 10640,
+			"density": 172
+		},
+		{
+			"state": "Rajasthan",
+			"stateCode": "RJ",
+			"districtCode": "JO",
+			"district": "Jodhpur",
+			"headquarters": "Jodhpur",
+			"population": 3685681,
+			"area": 22850,
+			"density": 161
+		},
+		{
+			"state": "Rajasthan",
+			"stateCode": "RJ",
+			"districtCode": "JP",
+			"district": "Jaipur",
+			"headquarters": "Jaipur",
+			"population": 6626178,
+			"area": 11143,
+			"density": 595
+		},
+		{
+			"state": "Rajasthan",
+			"stateCode": "RJ",
+			"districtCode": "JS",
+			"district": "Jaisalmer",
+			"headquarters": "Jaisalmer",
+			"population": 672008,
+			"area": 38401,
+			"density": 17
+		},
+		{
+			"state": "Rajasthan",
+			"stateCode": "RJ",
+			"districtCode": "JW",
+			"district": "Jhalawar",
+			"headquarters": "Jhalawar",
+			"population": 1411327,
+			"area": 6219,
+			"density": 227
+		},
+		{
+			"state": "Rajasthan",
+			"stateCode": "RJ",
+			"districtCode": "KA",
+			"district": "Karauli",
+			"headquarters": "Karauli",
+			"population": 1458459,
+			"area": 5530,
+			"density": 264
+		},
+		{
+			"state": "Rajasthan",
+			"stateCode": "RJ",
+			"districtCode": "KO",
+			"district": "Kota",
+			"headquarters": "Kota",
+			"population": 1950491,
+			"area": 5446,
+			"density": 374
+		},
+		{
+			"state": "Rajasthan",
+			"stateCode": "RJ",
+			"districtCode": "NA",
+			"district": "Nagaur",
+			"headquarters": "Nagaur",
+			"population": 3309234,
+			"area": 17718,
+			"density": 187
+		},
+		{
+			"state": "Rajasthan",
+			"stateCode": "RJ",
+			"districtCode": "PA",
+			"district": "Pali",
+			"headquarters": "Pali",
+			"population": 2038533,
+			"area": 12387,
+			"density": 165
+		},
+		{
+			"state": "Rajasthan",
+			"stateCode": "RJ",
+			"districtCode": "PG",
+			"district": "Pratapgarh",
+			"headquarters": "Pratapgarh",
+			"population": 867848,
+			"area": 4112,
+			"density": 211
+		},
+		{
+			"state": "Rajasthan",
+			"stateCode": "RJ",
+			"districtCode": "RA",
+			"district": "Rajsamand",
+			"headquarters": "Rajsamand",
+			"population": 1158283,
+			"area": 3853,
+			"density": 302
+		},
+		{
+			"state": "Rajasthan",
+			"stateCode": "RJ",
+			"districtCode": "SK",
+			"district": "Sikar",
+			"headquarters": "Sikar",
+			"population": 2677737,
+			"area": 7732,
+			"density": 346
+		},
+		{
+			"state": "Rajasthan",
+			"stateCode": "RJ",
+			"districtCode": "SM",
+			"district": "Sawai Madhopur",
+			"headquarters": "Sawai Madhopur",
+			"population": 1338114,
+			"area": 4500,
+			"density": 257
+		},
+		{
+			"state": "Rajasthan",
+			"stateCode": "RJ",
+			"districtCode": "SR",
+			"district": "Sirohi",
+			"headquarters": "Sirohi",
+			"population": 1037185,
+			"area": 5136,
+			"density": 202
+		},
+		{
+			"state": "Rajasthan",
+			"stateCode": "RJ",
+			"districtCode": "TO",
+			"district": "Tonk",
+			"headquarters": "Tonk",
+			"population": 1421711,
+			"area": 7194,
+			"density": 198
+		},
+		{
+			"state": "Rajasthan",
+			"stateCode": "RJ",
+			"districtCode": "UD",
+			"district": "Udaipur",
+			"headquarters": "Udaipur",
+			"population": 3067549,
+			"area": 13430,
+			"density": 242
+		},
+		{
+			"state": "Sikkim",
+			"stateCode": "SK",
+			"districtCode": "ES",
+			"district": "East Sikkim",
+			"headquarters": "Gangtok",
+			"population": 281293,
+			"area": 954,
+			"density": 295
+		},
+		{
+			"state": "Sikkim",
+			"stateCode": "SK",
+			"districtCode": "NS",
+			"district": "North Sikkim",
+			"headquarters": "Mangan",
+			"population": 43354,
+			"area": 4226,
+			"density": 10
+		},
+		{
+			"state": "Sikkim",
+			"stateCode": "SK",
+			"districtCode": "PS",
+			"district": "Pakyong",
+			"headquarters": "Pakyong",
+			"population": 74583,
+			"area": 404,
+			"density": 180
+		},
+		{
+			"state": "Sikkim",
+			"stateCode": "SK",
+			"districtCode": "",
+			"district": "Soreng",
+			"headquarters": "Soreng",
+			"population": 64760,
+			"area": 293,
+			"density": 221
+		},
+		{
+			"state": "Sikkim",
+			"stateCode": "SK",
+			"districtCode": "SS",
+			"district": "South Sikkim",
+			"headquarters": "Namchi",
+			"population": 146742,
+			"area": 750,
+			"density": 196
+		},
+		{
+			"state": "Sikkim",
+			"stateCode": "SK",
+			"districtCode": "WS",
+			"district": "West Sikkim",
+			"headquarters": "Gyalshing",
+			"population": 136299,
+			"area": 1166,
+			"density": 117
+		},
+		{
+			"state": "Tamil Nadu",
+			"stateCode": "TN",
+			"districtCode": "AY",
+			"district": "Ariyalur",
+			"headquarters": "Ariyalur",
+			"population": 752481,
+			"area": 3208,
+			"density": 387
+		},
+		{
+			"state": "Tamil Nadu",
+			"stateCode": "TN",
+			"districtCode": "CGL",
+			"district": "Chengalpattu",
+			"headquarters": "Chengalpattu",
+			"population": 2556244,
+			"area": 2945,
+			"density": 868
+		},
+		{
+			"state": "Tamil Nadu",
+			"stateCode": "TN",
+			"districtCode": "CH",
+			"district": "Chennai",
+			"headquarters": "Chennai",
+			"population": 7139882,
+			"area": 426,
+			"density": 17000
+		},
+		{
+			"state": "Tamil Nadu",
+			"stateCode": "TN",
+			"districtCode": "CO",
+			"district": "Coimbatore",
+			"headquarters": "Coimbatore",
+			"population": 3472578,
+			"area": 4723,
+			"density": 748
+		},
+		{
+			"state": "Tamil Nadu",
+			"stateCode": "TN",
+			"districtCode": "CU",
+			"district": "Cuddalore",
+			"headquarters": "Cuddalore",
+			"population": 2600880,
+			"area": 3999,
+			"density": 702
+		},
+		{
+			"state": "Tamil Nadu",
+			"stateCode": "TN",
+			"districtCode": "DH",
+			"district": "Dharmapuri",
+			"headquarters": "Dharmapuri",
+			"population": 1502900,
+			"area": 4532,
+			"density": 332
+		},
+		{
+			"state": "Tamil Nadu",
+			"stateCode": "TN",
+			"districtCode": "DGL",
+			"district": "Dindigul",
+			"headquarters": "Dindigul",
+			"population": 2161367,
+			"area": 6058,
+			"density": 357
+		},
+		{
+			"state": "Tamil Nadu",
+			"stateCode": "TN",
+			"districtCode": "ER",
+			"district": "Erode",
+			"headquarters": "Erode",
+			"population": 2259608,
+			"area": 5714,
+			"density": 397
+		},
+		{
+			"state": "Tamil Nadu",
+			"stateCode": "TN",
+			"districtCode": "KL",
+			"district": "Kallakurichi",
+			"headquarters": "Kallakurichi",
+			"population": 1682687,
+			"area": 3520,
+			"density": 478
+		},
+		{
+			"state": "Tamil Nadu",
+			"stateCode": "TN",
+			"districtCode": "KC",
+			"district": "Kanchipuram",
+			"headquarters": "Kanchipuram",
+			"population": 1166401,
+			"area": 1656,
+			"density": 704
+		},
+		{
+			"state": "Tamil Nadu",
+			"stateCode": "TN",
+			"districtCode": "KK",
+			"district": "Kanyakumari",
+			"headquarters": "Nagercoil",
+			"population": 1863178,
+			"area": 1685,
+			"density": 1106
+		},
+		{
+			"state": "Tamil Nadu",
+			"stateCode": "TN",
+			"districtCode": "KA",
+			"district": "Karur",
+			"headquarters": "Karur",
+			"population": 1076588,
+			"area": 2901,
+			"density": 371
+		},
+		{
+			"state": "Tamil Nadu",
+			"stateCode": "TN",
+			"districtCode": "KR",
+			"district": "Krishnagiri",
+			"headquarters": "Krishnagiri",
+			"population": 1883731,
+			"area": 5086,
+			"density": 370
+		},
+		{
+			"state": "Tamil Nadu",
+			"stateCode": "TN",
+			"districtCode": "MDU",
+			"district": "Madurai",
+			"headquarters": "Madurai",
+			"population": 3191038,
+			"area": 3676,
+			"density": 823
+		},
+		{
+			"state": "Tamil Nadu",
+			"stateCode": "TN",
+			"districtCode": "MLD",
+			"district": "Mayiladuthurai",
+			"headquarters": "Mayiladuthurai",
+			"population": 918356,
+			"area": 1172,
+			"density": 784
+		},
+		{
+			"state": "Tamil Nadu",
+			"stateCode": "TN",
+			"districtCode": "NG",
+			"district": "Nagapattinam",
+			"headquarters": "Nagapattinam",
+			"population": 1614069,
+			"area": 2716,
+			"density": 668
+		},
+		{
+			"state": "Tamil Nadu",
+			"stateCode": "TN",
+			"districtCode": "NI",
+			"district": "Nilgiris",
+			"headquarters": "Ooty",
+			"population": 735071,
+			"area": 2549,
+			"density": 288
+		},
+		{
+			"state": "Tamil Nadu",
+			"stateCode": "TN",
+			"districtCode": "NM",
+			"district": "Namakkal",
+			"headquarters": "Namakkal",
+			"population": 1721179,
+			"area": 3429,
+			"density": 506
+		},
+		{
+			"state": "Tamil Nadu",
+			"stateCode": "TN",
+			"districtCode": "PE",
+			"district": "Perambalur",
+			"headquarters": "Perambalur",
+			"population": 564511,
+			"area": 1752,
+			"density": 323
+		},
+		{
+			"state": "Tamil Nadu",
+			"stateCode": "TN",
+			"districtCode": "PU",
+			"district": "Pudukkottai",
+			"headquarters": "Pudukkottai",
+			"population": 1918725,
+			"area": 4651,
+			"density": 348
+		},
+		{
+			"state": "Tamil Nadu",
+			"stateCode": "TN",
+			"districtCode": "RA",
+			"district": "Ramanathapuram",
+			"headquarters": "Ramanathapuram",
+			"population": 1337560,
+			"area": 4123,
+			"density": 320
+		},
+		{
+			"state": "Tamil Nadu",
+			"stateCode": "TN",
+			"districtCode": "RN",
+			"district": "Ranipet",
+			"headquarters": "Ranipettai",
+			"population": 1210277,
+			"area": 2234,
+			"density": 524
+		},
+		{
+			"state": "Tamil Nadu",
+			"stateCode": "TN",
+			"districtCode": "SA",
+			"district": "Salem",
+			"headquarters": "Salem",
+			"population": 3480008,
+			"area": 5245,
+			"density": 663
+		},
+		{
+			"state": "Tamil Nadu",
+			"stateCode": "TN",
+			"districtCode": "SVG",
+			"district": "Sivaganga",
+			"headquarters": "Sivagangai",
+			"population": 1341250,
+			"area": 4086,
+			"density": 324
+		},
+		{
+			"state": "Tamil Nadu",
+			"stateCode": "TN",
+			"districtCode": "TS",
+			"district": "Tenkasi",
+			"headquarters": "Tenkasi",
+			"population": 1407627,
+			"area": 2916,
+			"density": 483
+		},
+		{
+			"state": "Tamil Nadu",
+			"stateCode": "TN",
+			"districtCode": "TP",
+			"district": "Tiruppur",
+			"headquarters": "Tiruppur",
+			"population": 2471222,
+			"area": 5106,
+			"density": 476
+		},
+		{
+			"state": "Tamil Nadu",
+			"stateCode": "TN",
+			"districtCode": "TC",
+			"district": "Tiruchirappalli",
+			"headquarters": "Tiruchirappalli",
+			"population": 2713858,
+			"area": 4407,
+			"density": 602
+		},
+		{
+			"state": "Tamil Nadu",
+			"stateCode": "TN",
+			"districtCode": "TH",
+			"district": "Theni",
+			"headquarters": "Theni",
+			"population": 1243684,
+			"area": 3066,
+			"density": 433
+		},
+		{
+			"state": "Tamil Nadu",
+			"stateCode": "TN",
+			"districtCode": "TI",
+			"district": "Tirunelveli",
+			"headquarters": "Tirunelveli",
+			"population": 1665253,
+			"area": 3842,
+			"density": 433
+		},
+		{
+			"state": "Tamil Nadu",
+			"stateCode": "TN",
+			"districtCode": "TJ",
+			"district": "Thanjavur",
+			"headquarters": "Thanjavur",
+			"population": 2402781,
+			"area": 3397,
+			"density": 691
+		},
+		{
+			"state": "Tamil Nadu",
+			"stateCode": "TN",
+			"districtCode": "TK",
+			"district": "Thoothukudi",
+			"headquarters": "Thoothukudi",
+			"population": 1738376,
+			"area": 4594,
+			"density": 378
+		},
+		{
+			"state": "Tamil Nadu",
+			"stateCode": "TN",
+			"districtCode": "TP",
+			"district": "Tirupattur",
+			"headquarters": "Tirupattur",
+			"population": 1111812,
+			"area": 1798,
+			"density": 618
+		},
+		{
+			"state": "Tamil Nadu",
+			"stateCode": "TN",
+			"districtCode": "TL",
+			"district": "Tiruvallur",
+			"headquarters": "Tiruvallur",
+			"population": 3725697,
+			"area": 3424,
+			"density": 1049
+		},
+		{
+			"state": "Tamil Nadu",
+			"stateCode": "TN",
+			"districtCode": "TR",
+			"district": "Tiruvarur",
+			"headquarters": "Thiruvarur",
+			"population": 1268094,
+			"area": 2377,
+			"density": 533
+		},
+		{
+			"state": "Tamil Nadu",
+			"stateCode": "TN",
+			"districtCode": "TV",
+			"district": "Tiruvannamalai",
+			"headquarters": "Tiruvannaamalai",
+			"population": 2468965,
+			"area": 6191,
+			"density": 399
+		},
+		{
+			"state": "Tamil Nadu",
+			"stateCode": "TN",
+			"districtCode": "VE",
+			"district": "Vellore",
+			"headquarters": "Vellore",
+			"population": 1614242,
+			"area": 2080,
+			"density": 776
+		},
+		{
+			"state": "Tamil Nadu",
+			"stateCode": "TN",
+			"districtCode": "VL",
+			"district": "Viluppuram",
+			"headquarters": "Viluppuram",
+			"population": 2093003,
+			"area": 3725,
+			"density": 562
+		},
+		{
+			"state": "Tamil Nadu",
+			"stateCode": "TN",
+			"districtCode": "VNR",
+			"district": "Virudhunagar",
+			"headquarters": "Virudhunagar",
+			"population": 1943309,
+			"area": 3446,
+			"density": 454
+		},
+		{
+			"state": "Telangana",
+			"stateCode": "TS",
+			"districtCode": "AD",
+			"district": "Adilabad",
+			"headquarters": "Adilabad",
+			"population": 708952,
+			"area": 4185,
+			"density": 171
+		},
+		{
+			"state": "Telangana",
+			"stateCode": "TS",
+			"districtCode": "\u2013",
+			"district": "Bhadradri Kothagudem",
+			"headquarters": "Kothagudem",
+			"population": 1304811,
+			"area": 8951,
+			"density": 143
+		},
+		{
+			"state": "Telangana",
+			"stateCode": "TS",
+			"districtCode": "\u2013",
+			"district": "Hanamkonda",
+			"headquarters": "Hanamkonda",
+			"population": 1135707,
+			"area": 1304,
+			"density": 826
+		},
+		{
+			"state": "Telangana",
+			"stateCode": "TS",
+			"districtCode": "HY",
+			"district": "Hyderabad",
+			"headquarters": "Hyderabad",
+			"population": 3943323,
+			"area": 217,
+			"density": 18172
+		},
+		{
+			"state": "Telangana",
+			"stateCode": "TS",
+			"districtCode": "\u2013",
+			"district": "Jagtial",
+			"headquarters": "Jagtial",
+			"population": 983414,
+			"area": 3043,
+			"density": 407
+		},
+		{
+			"state": "Telangana",
+			"stateCode": "TS",
+			"districtCode": "\u2013",
+			"district": "Jangaon",
+			"headquarters": "Jangaon",
+			"population": 582457,
+			"area": 2187,
+			"density": 259
+		},
+		{
+			"state": "Telangana",
+			"stateCode": "TS",
+			"districtCode": "\u2013",
+			"district": "Jayashankar Bhupalpally",
+			"headquarters": "Bhupalpally",
+			"population": 712257,
+			"area": 6361,
+			"density": 115
+		},
+		{
+			"state": "Telangana",
+			"stateCode": "TS",
+			"districtCode": "\u2013",
+			"district": "Jogulamba Gadwal",
+			"headquarters": "Gadwal",
+			"population": 664971,
+			"area": 2928,
+			"density": 208
+		},
+		{
+			"state": "Telangana",
+			"stateCode": "TS",
+			"districtCode": "\u2013",
+			"district": "Kamareddy",
+			"headquarters": "Kamareddy",
+			"population": 972625,
+			"area": 3651,
+			"density": 266
+		},
+		{
+			"state": "Telangana",
+			"stateCode": "TS",
+			"districtCode": "KA",
+			"district": "Karimnagar",
+			"headquarters": "Karimnagar",
+			"population": 1016063,
+			"area": 2379,
+			"density": 473
+		},
+		{
+			"state": "Telangana",
+			"stateCode": "TS",
+			"districtCode": "KH",
+			"district": "Khammam",
+			"headquarters": "Khammam",
+			"population": 1401639,
+			"area": 4453,
+			"density": 321
+		},
+		{
+			"state": "Telangana",
+			"stateCode": "TS",
+			"districtCode": "\u2013",
+			"district": "Kumuram Bheem Asifabad",
+			"headquarters": "Asifabad",
+			"population": 515835,
+			"area": 4300,
+			"density": 106
+		},
+		{
+			"state": "Telangana",
+			"stateCode": "TS",
+			"districtCode": "\u2013",
+			"district": "Mahabubabad",
+			"headquarters": "Mahabubabad",
+			"population": 770170,
+			"area": 2876,
+			"density": 269
+		},
+		{
+			"state": "Telangana",
+			"stateCode": "TS",
+			"districtCode": "MA",
+			"district": "Mahbubnagar",
+			"headquarters": "Mahbubnagar",
+			"population": 1318110,
+			"area": 4037,
+			"density": 281
+		},
+		{
+			"state": "Telangana",
+			"stateCode": "TS",
+			"districtCode": "\u2013",
+			"district": "Mancherial",
+			"headquarters": "Mancherial",
+			"population": 807037,
+			"area": 4056,
+			"density": 201
+		},
+		{
+			"state": "Telangana",
+			"stateCode": "TS",
+			"districtCode": "ME",
+			"district": "Medak",
+			"headquarters": "Medak",
+			"population": 767428,
+			"area": 2740,
+			"density": 275
+		},
+		{
+			"state": "Telangana",
+			"stateCode": "TS",
+			"districtCode": "\u2013",
+			"district": "Medchal\u2013Malkajgiri",
+			"headquarters": "Shamirpet",
+			"population": 2542203,
+			"area": 5005,
+			"density": 2251
+		},
+		{
+			"state": "Telangana",
+			"stateCode": "TS",
+			"districtCode": "\u2013",
+			"district": "Mulugu",
+			"headquarters": "Mulugu",
+			"population": 294671,
+			"area": 3881,
+			"density": 124
+		},
+		{
+			"state": "Telangana",
+			"stateCode": "TS",
+			"districtCode": "NA",
+			"district": "Nalgonda",
+			"headquarters": "Nalgonda",
+			"population": 1631399,
+			"area": 2449,
+			"density": 227
+		},
+		{
+			"state": "Telangana",
+			"stateCode": "TS",
+			"districtCode": "\u2013",
+			"district": "Narayanpet",
+			"headquarters": "Narayanpet",
+			"population": 566874,
+			"area": 2336,
+			"density": 243
+		},
+		{
+			"state": "Telangana",
+			"stateCode": "TS",
+			"districtCode": "\u2013",
+			"district": "Nagarkurnool",
+			"headquarters": "Nagarkurnool",
+			"population": 893308,
+			"area": 6545,
+			"density": 124
+		},
+		{
+			"state": "Telangana",
+			"stateCode": "TS",
+			"districtCode": "\u2013",
+			"district": "Nirmal",
+			"headquarters": "Nirmal",
+			"population": 709415,
+			"area": 3562,
+			"density": 185
+		},
+		{
+			"state": "Telangana",
+			"stateCode": "TS",
+			"districtCode": "NI",
+			"district": "Nizamabad",
+			"headquarters": "Nizamabad",
+			"population": 1534428,
+			"area": 4153,
+			"density": 366
+		},
+		{
+			"state": "Telangana",
+			"stateCode": "TS",
+			"districtCode": "\u2013",
+			"district": "Peddapalli",
+			"headquarters": "Peddapalli",
+			"population": 795332,
+			"area": 4614,
+			"density": 356
+		},
+		{
+			"state": "Telangana",
+			"stateCode": "TS",
+			"districtCode": "\u2013",
+			"district": "Rajanna Sircilla",
+			"headquarters": "Sircilla",
+			"population": 546121,
+			"area": 2030,
+			"density": 273
+		},
+		{
+			"state": "Telangana",
+			"stateCode": "TS",
+			"districtCode": "RA",
+			"district": "Ranga Reddy",
+			"headquarters": "Hyderabad",
+			"population": 2551731,
+			"area": 5031,
+			"density": 486
+		},
+		{
+			"state": "Telangana",
+			"stateCode": "TS",
+			"districtCode": "\u2013",
+			"district": "Sangareddy",
+			"headquarters": "Sangareddy",
+			"population": 1527628,
+			"area": 4464,
+			"density": 347
+		},
+		{
+			"state": "Telangana",
+			"stateCode": "TS",
+			"districtCode": "\u2013",
+			"district": "Siddipet",
+			"headquarters": "Siddipet",
+			"population": 993376,
+			"area": 3425,
+			"density": 279
+		},
+		{
+			"state": "Telangana",
+			"stateCode": "TS",
+			"districtCode": "\u2013",
+			"district": "Suryapet",
+			"headquarters": "Suryapet",
+			"population": 1099560,
+			"area": 3374,
+			"density": 305
+		},
+		{
+			"state": "Telangana",
+			"stateCode": "TS",
+			"districtCode": "\u2013",
+			"district": "Vikarabad",
+			"headquarters": "Vikarabad",
+			"population": 881250,
+			"area": 3385,
+			"density": 274
+		},
+		{
+			"state": "Telangana",
+			"stateCode": "TS",
+			"districtCode": "\u2013",
+			"district": "Wanaparthy",
+			"headquarters": "Wanaparthy",
+			"population": 751553,
+			"area": 2938,
+			"density": 268
+		},
+		{
+			"state": "Telangana",
+			"stateCode": "TS",
+			"districtCode": "WL",
+			"district": "Warangal",
+			"headquarters": "Warangal",
+			"population": 716457,
+			"area": 2175,
+			"density": 330
+		},
+		{
+			"state": "Telangana",
+			"stateCode": "TS",
+			"districtCode": "\u2013",
+			"district": "Yadadri Bhuvanagiri",
+			"headquarters": "Bhongir",
+			"population": 726465,
+			"area": 3091,
+			"density": 239
+		},
+		{
+			"state": "Tripura",
+			"stateCode": "TR",
+			"districtCode": "DH",
+			"district": "Dhalai",
+			"headquarters": "Ambassa",
+			"population": 377988,
+			"area": 2400,
+			"density": 157
+		},
+		{
+			"state": "Tripura",
+			"stateCode": "TR",
+			"districtCode": "GM",
+			"district": "Gomati",
+			"headquarters": "Udaipur",
+			"population": 436868,
+			"area": 1522,
+			"density": 287
+		},
+		{
+			"state": "Tripura",
+			"stateCode": "TR",
+			"districtCode": "KH",
+			"district": "Khowai",
+			"headquarters": "Khowai",
+			"population": 327391,
+			"area": 1005,
+			"density": 326
+		},
+		{
+			"state": "Tripura",
+			"stateCode": "TR",
+			"districtCode": "NT",
+			"district": "North Tripura",
+			"headquarters": "Dharmanagar",
+			"population": 415946,
+			"area": 1444,
+			"density": 288
+		},
+		{
+			"state": "Tripura",
+			"stateCode": "TR",
+			"districtCode": "SP",
+			"district": "Sepahijala",
+			"headquarters": "Bishramganj",
+			"population": 484233,
+			"area": 1044,
+			"density": 463
+		},
+		{
+			"state": "Tripura",
+			"stateCode": "TR",
+			"districtCode": "ST",
+			"district": "South Tripura",
+			"headquarters": "Belonia",
+			"population": 433737,
+			"area": 1534,
+			"density": 283
+		},
+		{
+			"state": "Tripura",
+			"stateCode": "TR",
+			"districtCode": "UK",
+			"district": "Unakoti",
+			"headquarters": "Kailashahar",
+			"population": 277335,
+			"area": 591,
+			"density": 469
+		},
+		{
+			"state": "Tripura",
+			"stateCode": "TR",
+			"districtCode": "WT",
+			"district": "West Tripura",
+			"headquarters": "Agartala",
+			"population": 917534,
+			"area": 942,
+			"density": 973
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "AG",
+			"district": "Agra",
+			"headquarters": "Agra",
+			"population": 4380793,
+			"area": 4027,
+			"density": 1084
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "AL",
+			"district": "Aligarh",
+			"headquarters": "Aligarh",
+			"population": 3673849,
+			"area": 3747,
+			"density": 1007
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "AN",
+			"district": "Ambedkar Nagar",
+			"headquarters": "Akbarpur",
+			"population": 2398709,
+			"area": 2372,
+			"density": 1021
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "AM",
+			"district": "Amethi",
+			"headquarters": "Gauriganj",
+			"population": 2549935,
+			"area": 3063,
+			"density": 830
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "JP",
+			"district": "Amroha",
+			"headquarters": "Amroha",
+			"population": 1838771,
+			"area": 2321,
+			"density": 818
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "AU",
+			"district": "Auraiya",
+			"headquarters": "Auraiya",
+			"population": 1372287,
+			"area": 2051,
+			"density": 681
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "FZ",
+			"district": "Ayodhya",
+			"headquarters": "Ayodhya",
+			"population": 2468371,
+			"area": 2765,
+			"density": 1054
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "AZ",
+			"district": "Azamgarh",
+			"headquarters": "Azamgarh",
+			"population": 4616509,
+			"area": 4053,
+			"density": 1139
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "BG",
+			"district": "Bagpat",
+			"headquarters": "Baghpat",
+			"population": 1302156,
+			"area": 1345,
+			"density": 986
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "BH",
+			"district": "Bahraich",
+			"headquarters": "Bahraich",
+			"population": 2384239,
+			"area": 4926,
+			"density": 415
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "BL",
+			"district": "Ballia",
+			"headquarters": "Ballia",
+			"population": 3223642,
+			"area": 2981,
+			"density": 1081
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "BP",
+			"district": "Balrampur",
+			"headquarters": "Balrampur",
+			"population": 2149066,
+			"area": 3349,
+			"density": 642
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "BN",
+			"district": "Banda",
+			"headquarters": "Banda",
+			"population": 1799541,
+			"area": 4413,
+			"density": 404
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "BB",
+			"district": "Barabanki",
+			"headquarters": "Barabanki",
+			"population": 3257983,
+			"area": 3825,
+			"density": 739
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "BR",
+			"district": "Bareilly",
+			"headquarters": "Bareilly",
+			"population": 4465344,
+			"area": 4120,
+			"density": 1084
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "BS",
+			"district": "Basti",
+			"headquarters": "Basti",
+			"population": 2461056,
+			"area": 2687,
+			"density": 916
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "BH",
+			"district": "Bhadohi",
+			"headquarters": "Gyanpur",
+			"population": 1554203,
+			"area": 960,
+			"density": 1531
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "BI",
+			"district": "Bijnor",
+			"headquarters": "Bijnor",
+			"population": 3683896,
+			"area": 4561,
+			"density": 808
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "BD",
+			"district": "Budaun",
+			"headquarters": "Budaun",
+			"population": 3712738,
+			"area": 5168,
+			"density": 718
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "BU",
+			"district": "Bulandshahr",
+			"headquarters": "Bulandshahr",
+			"population": 3498507,
+			"area": 3719,
+			"density": 788
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "CD",
+			"district": "Chandauli",
+			"headquarters": "Chandauli",
+			"population": 1952713,
+			"area": 2554,
+			"density": 768
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "CT",
+			"district": "Chitrakoot",
+			"headquarters": "Karwi",
+			"population": 990626,
+			"area": 3202,
+			"density": 315
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "DE",
+			"district": "Deoria",
+			"headquarters": "Deoria",
+			"population": 3098637,
+			"area": 2535,
+			"density": 1220
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "ET",
+			"district": "Etah",
+			"headquarters": "Etah",
+			"population": 1761152,
+			"area": 2456,
+			"density": 717
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "EW",
+			"district": "Etawah",
+			"headquarters": "Etawah",
+			"population": 1579160,
+			"area": 2287,
+			"density": 683
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "FR",
+			"district": "Farrukhabad",
+			"headquarters": "Fatehgarh",
+			"population": 1887577,
+			"area": 2279,
+			"density": 865
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "FT",
+			"district": "Fatehpur",
+			"headquarters": "Fatehpur",
+			"population": 2632684,
+			"area": 4152,
+			"density": 634
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "FI",
+			"district": "Firozabad",
+			"headquarters": "Firozabad",
+			"population": 2496761,
+			"area": 2361,
+			"density": 1044
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "GB",
+			"district": "Gautam Buddha Nagar",
+			"headquarters": "Noida",
+			"population": 1674714,
+			"area": 1269,
+			"density": 1252
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "GZ",
+			"district": "Ghaziabad",
+			"headquarters": "Ghaziabad",
+			"population": 4661452,
+			"area": 1175,
+			"density": 3967
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "GP",
+			"district": "Ghazipur",
+			"headquarters": "Ghazipur",
+			"population": 3622727,
+			"area": 3377,
+			"density": 1072
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "GN",
+			"district": "Gonda",
+			"headquarters": "Gonda",
+			"population": 3431386,
+			"area": 4425,
+			"density": 857
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "GR",
+			"district": "Gorakhpur",
+			"headquarters": "Gorakhpur",
+			"population": 4436275,
+			"area": 3325,
+			"density": 1336
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "HM",
+			"district": "Hamirpur",
+			"headquarters": "Hamirpur",
+			"population": 1104021,
+			"area": 4325,
+			"density": 268
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "PN",
+			"district": "Hapur",
+			"headquarters": "Hapur",
+			"population": 1338211,
+			"area": 660,
+			"density": 2028
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "HR",
+			"district": "Hardoi",
+			"headquarters": "Hardoi",
+			"population": 4091380,
+			"area": 5986,
+			"density": 683
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "HT",
+			"district": "Hathras",
+			"headquarters": "Hathras",
+			"population": 1565678,
+			"area": 1752,
+			"density": 851
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "JL",
+			"district": "Jalaun",
+			"headquarters": "Orai",
+			"population": 1670718,
+			"area": 4565,
+			"density": 366
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "JU",
+			"district": "Jaunpur",
+			"headquarters": "Jaunpur",
+			"population": 4476072,
+			"area": 4038,
+			"density": 1108
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "JH",
+			"district": "Jhansi",
+			"headquarters": "Jhansi",
+			"population": 2000755,
+			"area": 5024,
+			"density": 398
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "KJ",
+			"district": "Kannauj",
+			"headquarters": "Kannauj",
+			"population": 1658005,
+			"area": 1993,
+			"density": 792
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "KD",
+			"district": "Kanpur Dehat",
+			"headquarters": "Akbarpur",
+			"population": 1795092,
+			"area": 3021,
+			"density": 594
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "KN",
+			"district": "Kanpur Nagar",
+			"headquarters": "Kanpur",
+			"population": 4572951,
+			"area": 3156,
+			"density": 1415
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "KR",
+			"district": "Kasganj",
+			"headquarters": "Kasganj",
+			"population": 1438156,
+			"area": 1955,
+			"density": 736
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "KS",
+			"district": "Kaushambi",
+			"headquarters": "Manjhanpur",
+			"population": 1596909,
+			"area": 1837,
+			"density": 897
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "KU",
+			"district": "Kushinagar",
+			"headquarters": "Padrauna",
+			"population": 3560830,
+			"area": 2909,
+			"density": 1226
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "LK",
+			"district": "Lakhimpur Kheri",
+			"headquarters": "Lakhimpur",
+			"population": 4013634,
+			"area": 7674,
+			"density": 523
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "LA",
+			"district": "Lalitpur",
+			"headquarters": "Lalitpur",
+			"population": 1218002,
+			"area": 5039,
+			"density": 242
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "LU",
+			"district": "Lucknow",
+			"headquarters": "Lucknow",
+			"population": 4588455,
+			"area": 2528,
+			"density": 1815
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "MG",
+			"district": "Maharajganj",
+			"headquarters": "Maharajganj",
+			"population": 2665292,
+			"area": 2953,
+			"density": 903
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "MH",
+			"district": "Mahoba",
+			"headquarters": "Mahoba",
+			"population": 876055,
+			"area": 2847,
+			"density": 288
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "MP",
+			"district": "Mainpuri",
+			"headquarters": "Mainpuri",
+			"population": 1847194,
+			"area": 2760,
+			"density": 670
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "MT",
+			"district": "Mathura",
+			"headquarters": "Mathura",
+			"population": 2541894,
+			"area": 3333,
+			"density": 761
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "MB",
+			"district": "Mau",
+			"headquarters": "Mau",
+			"population": 2205170,
+			"area": 1713,
+			"density": 1287
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "ME",
+			"district": "Meerut",
+			"headquarters": "Meerut",
+			"population": 3447405,
+			"area": 2522,
+			"density": 1342
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "MI",
+			"district": "Mirzapur",
+			"headquarters": "Mirzapur",
+			"population": 2494533,
+			"area": 4522,
+			"density": 561
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "MO",
+			"district": "Moradabad",
+			"headquarters": "Moradabad",
+			"population": 4773138,
+			"area": 3718,
+			"density": 1284
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "MU",
+			"district": "Muzaffarnagar",
+			"headquarters": "Muzaffarnagar",
+			"population": 4138605,
+			"area": 4008,
+			"density": 1033
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "PI",
+			"district": "Pilibhit",
+			"headquarters": "Pilibhit",
+			"population": 2037225,
+			"area": 3499,
+			"density": 567
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "PR",
+			"district": "Pratapgarh",
+			"headquarters": "Pratapgarh",
+			"population": 3173752,
+			"area": 3717,
+			"density": 854
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "AH",
+			"district": "Prayagraj",
+			"headquarters": "Prayagraj",
+			"population": 5959798,
+			"area": 5481,
+			"density": 1087
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "RB",
+			"district": "Raebareli",
+			"headquarters": "Raebareli",
+			"population": 3404004,
+			"area": 4609,
+			"density": 739
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "RA",
+			"district": "Rampur",
+			"headquarters": "Rampur",
+			"population": 2335398,
+			"area": 2367,
+			"density": 987
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "SA",
+			"district": "Saharanpur",
+			"headquarters": "Saharanpur",
+			"population": 3464228,
+			"area": 3689,
+			"density": 939
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "SM",
+			"district": "Sambhal",
+			"headquarters": "Sambhal",
+			"population": 2217020,
+			"area": 2453,
+			"density": 890
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "SK",
+			"district": "Sant Kabir Nagar",
+			"headquarters": "Khalilabad",
+			"population": 1714300,
+			"area": 1442,
+			"density": 1014
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "SJ",
+			"district": "Shahjahanpur",
+			"headquarters": "Shahjahanpur",
+			"population": 3002376,
+			"area": 4575,
+			"density": 673
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "SH",
+			"district": "Shamli",
+			"headquarters": "Shamli",
+			"population": 1274815,
+			"area": 1063,
+			"density": 1200
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "SV",
+			"district": "Shravasti",
+			"headquarters": "Shravasti",
+			"population": 1114615,
+			"area": 1948,
+			"density": 572
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "SN",
+			"district": "Siddharthnagar",
+			"headquarters": "Naugarh",
+			"population": 2553526,
+			"area": 2751,
+			"density": 882
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "SI",
+			"district": "Sitapur",
+			"headquarters": "Sitapur",
+			"population": 4474446,
+			"area": 5743,
+			"density": 779
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "SO",
+			"district": "Sonbhadra",
+			"headquarters": "Robertsganj",
+			"population": 1862612,
+			"area": 6788,
+			"density": 274
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "SU",
+			"district": "Sultanpur",
+			"headquarters": "Sultanpur",
+			"population": 3790922,
+			"area": 4436,
+			"density": 855
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "UN",
+			"district": "Unnao",
+			"headquarters": "Unnao",
+			"population": 3110595,
+			"area": 4561,
+			"density": 682
+		},
+		{
+			"state": "Uttar Pradesh",
+			"stateCode": "UP",
+			"districtCode": "VA",
+			"district": "Varanasi",
+			"headquarters": "Varanasi",
+			"population": 3682194,
+			"area": 1535,
+			"density": 2399
+		},
+		{
+			"state": "Uttarakhand",
+			"stateCode": "UK",
+			"districtCode": "AL",
+			"district": "Almora",
+			"headquarters": "Almora",
+			"population": 621927,
+			"area": 3090,
+			"density": 198
+		},
+		{
+			"state": "Uttarakhand",
+			"stateCode": "UK",
+			"districtCode": "BA",
+			"district": "Bageshwar",
+			"headquarters": "Bageshwar",
+			"population": 259840,
+			"area": 2310,
+			"density": 116
+		},
+		{
+			"state": "Uttarakhand",
+			"stateCode": "UK",
+			"districtCode": "CL",
+			"district": "Chamoli",
+			"headquarters": "Gopeshwar",
+			"population": 391114,
+			"area": 7692,
+			"density": 49
+		},
+		{
+			"state": "Uttarakhand",
+			"stateCode": "UK",
+			"districtCode": "CP",
+			"district": "Champawat",
+			"headquarters": "Champawat",
+			"population": 259315,
+			"area": 1781,
+			"density": 147
+		},
+		{
+			"state": "Uttarakhand",
+			"stateCode": "UK",
+			"districtCode": "DD",
+			"district": "Dehradun",
+			"headquarters": "Dehradun",
+			"population": 1698560,
+			"area": 3088,
+			"density": 550
+		},
+		{
+			"state": "Uttarakhand",
+			"stateCode": "UK",
+			"districtCode": "HA",
+			"district": "Haridwar",
+			"headquarters": "Haridwar",
+			"population": 1927029,
+			"area": 2360,
+			"density": 817
+		},
+		{
+			"state": "Uttarakhand",
+			"stateCode": "UK",
+			"districtCode": "NA",
+			"district": "Nainital",
+			"headquarters": "Nainital",
+			"population": 955128,
+			"area": 3853,
+			"density": 225
+		},
+		{
+			"state": "Uttarakhand",
+			"stateCode": "UK",
+			"districtCode": "PG",
+			"district": "Pauri Garhwal",
+			"headquarters": "Pauri",
+			"population": 686527,
+			"area": 5438,
+			"density": 129
+		},
+		{
+			"state": "Uttarakhand",
+			"stateCode": "UK",
+			"districtCode": "PI",
+			"district": "Pithoragarh",
+			"headquarters": "Pithoragarh",
+			"population": 485993,
+			"area": 7110,
+			"density": 69
+		},
+		{
+			"state": "Uttarakhand",
+			"stateCode": "UK",
+			"districtCode": "RP",
+			"district": "Rudraprayag",
+			"headquarters": "Rudraprayag",
+			"population": 236857,
+			"area": 1896,
+			"density": 119
+		},
+		{
+			"state": "Uttarakhand",
+			"stateCode": "UK",
+			"districtCode": "TG",
+			"district": "Tehri Garhwal",
+			"headquarters": "New Tehri",
+			"population": 616409,
+			"area": 4085,
+			"density": 169
+		},
+		{
+			"state": "Uttarakhand",
+			"stateCode": "UK",
+			"districtCode": "US",
+			"district": "Udham Singh Nagar",
+			"headquarters": "Rudrapur",
+			"population": 1648367,
+			"area": 2912,
+			"density": 648
+		},
+		{
+			"state": "Uttarakhand",
+			"stateCode": "UK",
+			"districtCode": "UT",
+			"district": "Uttarkashi",
+			"headquarters": "Uttarkashi",
+			"population": 329686,
+			"area": 7951,
+			"density": 41
+		},
+		{
+			"state": "West Bengal",
+			"stateCode": "WB",
+			"districtCode": "AD",
+			"district": "Alipurduar",
+			"headquarters": "Alipurduar",
+			"population": 1501983,
+			"area": 3136,
+			"density": 479
+		},
+		{
+			"state": "West Bengal",
+			"stateCode": "WB",
+			"districtCode": "BN",
+			"district": "Bankura",
+			"headquarters": "Bankura",
+			"population": 3596292,
+			"area": 6882,
+			"density": 523
+		},
+		{
+			"state": "West Bengal",
+			"stateCode": "WB",
+			"districtCode": "BI",
+			"district": "Birbhum",
+			"headquarters": "Suri",
+			"population": 3502387,
+			"area": 4545,
+			"density": 771
+		},
+		{
+			"state": "West Bengal",
+			"stateCode": "WB",
+			"districtCode": "KB",
+			"district": "Cooch Behar",
+			"headquarters": "Cooch Behar",
+			"population": 2822780,
+			"area": 3387,
+			"density": 833
+		},
+		{
+			"state": "West Bengal",
+			"stateCode": "WB",
+			"districtCode": "DD",
+			"district": "Dakshin Dinajpur",
+			"headquarters": "Balurghat",
+			"population": 1670931,
+			"area": 2183,
+			"density": 753
+		},
+		{
+			"state": "West Bengal",
+			"stateCode": "WB",
+			"districtCode": "DA",
+			"district": "Darjeeling",
+			"headquarters": "Darjeeling",
+			"population": 1595181,
+			"area": 2093,
+			"density": 762
+		},
+		{
+			"state": "West Bengal",
+			"stateCode": "WB",
+			"districtCode": "HG",
+			"district": "Hooghly",
+			"headquarters": "Chinsurah",
+			"population": 5520389,
+			"area": 3149,
+			"density": 1753
+		},
+		{
+			"state": "West Bengal",
+			"stateCode": "WB",
+			"districtCode": "HR",
+			"district": "Howrah",
+			"headquarters": "Howrah",
+			"population": 4841638,
+			"area": 1467,
+			"density": 3300
+		},
+		{
+			"state": "West Bengal",
+			"stateCode": "WB",
+			"districtCode": "JA",
+			"district": "Jalpaiguri",
+			"headquarters": "Jalpaiguri",
+			"population": 3869675,
+			"area": 6227,
+			"density": 621
+		},
+		{
+			"state": "West Bengal",
+			"stateCode": "WB",
+			"districtCode": "JH",
+			"district": "Jhargram",
+			"headquarters": "Jhargram",
+			"population": 1136548,
+			"area": 3038,
+			"density": 374
+		},
+		{
+			"state": "West Bengal",
+			"stateCode": "WB",
+			"districtCode": "KA",
+			"district": "Kalimpong",
+			"headquarters": "Kalimpong",
+			"population": 251642,
+			"area": 1054,
+			"density": 239
+		},
+		{
+			"state": "West Bengal",
+			"stateCode": "WB",
+			"districtCode": "KO",
+			"district": "Kolkata",
+			"headquarters": "Kolkata",
+			"population": 4486679,
+			"area": 206,
+			"density": 24252
+		},
+		{
+			"state": "West Bengal",
+			"stateCode": "WB",
+			"districtCode": "MA",
+			"district": "Maldah",
+			"headquarters": "English Bazar",
+			"population": 3997970,
+			"area": 3733,
+			"density": 1071
+		},
+		{
+			"state": "West Bengal",
+			"stateCode": "WB",
+			"districtCode": "MSD",
+			"district": "Murshidabad",
+			"headquarters": "Baharampur",
+			"population": 7102430,
+			"area": 5324,
+			"density": 1334
+		},
+		{
+			"state": "West Bengal",
+			"stateCode": "WB",
+			"districtCode": "NA",
+			"district": "Nadia",
+			"headquarters": "Krishnanagar",
+			"population": 5168488,
+			"area": 3927,
+			"density": 1316
+		},
+		{
+			"state": "West Bengal",
+			"stateCode": "WB",
+			"districtCode": "PN",
+			"district": "North 24 Parganas",
+			"headquarters": "Barasat",
+			"population": 10082852,
+			"area": 4094,
+			"density": 2463
+		},
+		{
+			"state": "West Bengal",
+			"stateCode": "WB",
+			"districtCode": "BR",
+			"district": "Paschim Bardhaman",
+			"headquarters": "Asansol",
+			"population": 2882031,
+			"area": 1603,
+			"density": 1798
+		},
+		{
+			"state": "West Bengal",
+			"stateCode": "WB",
+			"districtCode": "PM",
+			"district": "Paschim Medinipur",
+			"headquarters": "Midnapore",
+			"population": 4776909,
+			"area": 6308,
+			"density": 757
+		},
+		{
+			"state": "West Bengal",
+			"stateCode": "WB",
+			"districtCode": "BR",
+			"district": "Purba Bardhaman",
+			"headquarters": "Bardhaman",
+			"population": 4835532,
+			"area": 5433,
+			"density": 890
+		},
+		{
+			"state": "West Bengal",
+			"stateCode": "WB",
+			"districtCode": "PR",
+			"district": "Purba Medinipur",
+			"headquarters": "Tamluk",
+			"population": 5095875,
+			"area": 4736,
+			"density": 1076
+		},
+		{
+			"state": "West Bengal",
+			"stateCode": "WB",
+			"districtCode": "PU",
+			"district": "Purulia",
+			"headquarters": "Purulia",
+			"population": 2927965,
+			"area": 6259,
+			"density": 468
+		},
+		{
+			"state": "West Bengal",
+			"stateCode": "WB",
+			"districtCode": "PS",
+			"district": "South 24 Parganas",
+			"headquarters": "Alipore",
+			"population": 8161961,
+			"area": 9960,
+			"density": 819
+		},
+		{
+			"state": "West Bengal",
+			"stateCode": "WB",
+			"districtCode": "UD",
+			"district": "Uttar Dinajpur",
+			"headquarters": "Raiganj",
+			"population": 3000849,
+			"area": 3180,
+			"density": 956
+		},
+		{
+			"state": "Andaman and Nicobar",
+			"stateCode": "AN",
+			"districtCode": "NI",
+			"district": "Nicobar",
+			"headquarters": "Car Nicobar",
+			"population": 36842,
+			"area": 1841,
+			"density": 20
+		},
+		{
+			"state": "Andaman and Nicobar",
+			"stateCode": "AN",
+			"districtCode": "NA",
+			"district": "North and Middle Andaman",
+			"headquarters": "Mayabunder",
+			"population": 105597,
+			"area": 3736,
+			"density": 28
+		},
+		{
+			"state": "Andaman and Nicobar",
+			"stateCode": "AN",
+			"districtCode": "SA",
+			"district": "South Andaman",
+			"headquarters": "Port Blair",
+			"population": 238142,
+			"area": 2672,
+			"density": 89
+		},
+		{
+			"state": "Chandigarh",
+			"stateCode": "CH",
+			"districtCode": "CH",
+			"district": "Chandigarh",
+			"headquarters": "Chandigarh",
+			"population": 1055450,
+			"area": 114,
+			"density": 9258
+		},
+		{
+			"state": "Dadra and Nagar Haveli and Daman and Diu",
+			"stateCode": "DD",
+			"districtCode": "DA",
+			"district": "Daman",
+			"headquarters": "Daman",
+			"population": 191173,
+			"area": 72,
+			"density": 2651
+		},
+		{
+			"state": "Dadra and Nagar Haveli and Daman and Diu",
+			"stateCode": "DD",
+			"districtCode": "DI",
+			"district": "Diu",
+			"headquarters": "Diu",
+			"population": 52074,
+			"area": 39,
+			"density": 2058
+		},
+		{
+			"state": "Dadra and Nagar Haveli and Daman and Diu",
+			"stateCode": "DD",
+			"districtCode": "DN",
+			"district": "Dadra and Nagar Haveli",
+			"headquarters": "Silvassa",
+			"population": 343709,
+			"area": 491,
+			"density": 700
+		},
+		{
+			"state": "Jammu and Kashmir",
+			"stateCode": "JK",
+			"districtCode": "AN",
+			"district": "Anantnag",
+			"headquarters": "Anantnag",
+			"population": 1070144,
+			"area": 2853,
+			"density": 375
+		},
+		{
+			"state": "Jammu and Kashmir",
+			"stateCode": "JK",
+			"districtCode": "BD",
+			"district": "Budgam",
+			"headquarters": "Budgam",
+			"population": 735753,
+			"area": 1406,
+			"density": 537
+		},
+		{
+			"state": "Jammu and Kashmir",
+			"stateCode": "JK",
+			"districtCode": "BPR",
+			"district": "Bandipore",
+			"headquarters": "Bandipore",
+			"population": 385099,
+			"area": 3010,
+			"density": 128
+		},
+		{
+			"state": "Jammu and Kashmir",
+			"stateCode": "JK",
+			"districtCode": "BR",
+			"district": "Baramulla",
+			"headquarters": "Baramulla",
+			"population": 1015503,
+			"area": 3329,
+			"density": 305
+		},
+		{
+			"state": "Jammu and Kashmir",
+			"stateCode": "JK",
+			"districtCode": "DO",
+			"district": "Doda",
+			"headquarters": "Doda",
+			"population": 409576,
+			"area": 2625,
+			"density": 79
+		},
+		{
+			"state": "Jammu and Kashmir",
+			"stateCode": "JK",
+			"districtCode": "GB",
+			"district": "Ganderbal",
+			"headquarters": "Ganderbal",
+			"population": 297003,
+			"area": 1979,
+			"density": 1151
+		},
+		{
+			"state": "Jammu and Kashmir",
+			"stateCode": "JK",
+			"districtCode": "JA",
+			"district": "Jammu",
+			"headquarters": "Jammu",
+			"population": 1526406,
+			"area": 3097,
+			"density": 596
+		},
+		{
+			"state": "Jammu and Kashmir",
+			"stateCode": "JK",
+			"districtCode": "KT",
+			"district": "Kathua",
+			"headquarters": "Kathua",
+			"population": 615711,
+			"area": 2651,
+			"density": 232
+		},
+		{
+			"state": "Jammu and Kashmir",
+			"stateCode": "JK",
+			"districtCode": "KW",
+			"district": "Kishtwar",
+			"headquarters": "Kishtwar",
+			"population": 230696,
+			"area": 7737,
+			"density": 30
+		},
+		{
+			"state": "Jammu and Kashmir",
+			"stateCode": "JK",
+			"districtCode": "KG",
+			"district": "Kulgam",
+			"headquarters": "Kulgam",
+			"population": 422786,
+			"area": 457,
+			"density": 925
+		},
+		{
+			"state": "Jammu and Kashmir",
+			"stateCode": "JK",
+			"districtCode": "KU",
+			"district": "Kupwara",
+			"headquarters": "Kupwara",
+			"population": 875564,
+			"area": 2379,
+			"density": 368
+		},
+		{
+			"state": "Jammu and Kashmir",
+			"stateCode": "JK",
+			"districtCode": "PO",
+			"district": "Poonch",
+			"headquarters": "Poonch",
+			"population": 476820,
+			"area": 1674,
+			"density": 285
+		},
+		{
+			"state": "Jammu and Kashmir",
+			"stateCode": "JK",
+			"districtCode": "PU",
+			"district": "Pulwama",
+			"headquarters": "Pulwama",
+			"population": 570060,
+			"area": 1398,
+			"density": 598
+		},
+		{
+			"state": "Jammu and Kashmir",
+			"stateCode": "JK",
+			"districtCode": "RA",
+			"district": "Rajouri",
+			"headquarters": "Rajouri",
+			"population": 619266,
+			"area": 2630,
+			"density": 235
+		},
+		{
+			"state": "Jammu and Kashmir",
+			"stateCode": "JK",
+			"districtCode": "RB",
+			"district": "Ramban",
+			"headquarters": "Ramban",
+			"population": 283313,
+			"area": 1330,
+			"density": 213
+		},
+		{
+			"state": "Jammu and Kashmir",
+			"stateCode": "JK",
+			"districtCode": "RS",
+			"district": "Reasi",
+			"headquarters": "Reasi",
+			"population": 314714,
+			"area": 1710,
+			"density": 184
+		},
+		{
+			"state": "Jammu and Kashmir",
+			"stateCode": "JK",
+			"districtCode": "SB",
+			"district": "Samba",
+			"headquarters": "Samba",
+			"population": 318611,
+			"area": 913,
+			"density": 318
+		},
+		{
+			"state": "Jammu and Kashmir",
+			"stateCode": "JK",
+			"districtCode": "SH",
+			"district": "Shopian",
+			"headquarters": "Shopian",
+			"population": 265960,
+			"area": 312,
+			"density": 852
+		},
+		{
+			"state": "Jammu and Kashmir",
+			"stateCode": "JK",
+			"districtCode": "SR",
+			"district": "Srinagar",
+			"headquarters": "Srinagar",
+			"population": 1269751,
+			"area": 2228,
+			"density": 703
+		},
+		{
+			"state": "Jammu and Kashmir",
+			"stateCode": "JK",
+			"districtCode": "UD",
+			"district": "Udhampur",
+			"headquarters": "Udhampur",
+			"population": 555357,
+			"area": 4550,
+			"density": 211
+		},
+		{
+			"state": "Ladakh",
+			"stateCode": "LA",
+			"districtCode": "KR",
+			"district": "Kargil",
+			"headquarters": "Kargil",
+			"population": 143388,
+			"area": 14036,
+			"density": 10
+		},
+		{
+			"state": "Ladakh",
+			"stateCode": "LA",
+			"districtCode": "LE",
+			"district": "Leh",
+			"headquarters": "Leh",
+			"population": 133487,
+			"area": 45110,
+			"density": 3
+		},
+		{
+			"state": "Lakshadweep",
+			"stateCode": "LD",
+			"districtCode": "LD",
+			"district": "Lakshadweep",
+			"headquarters": "Kavaratti",
+			"population": 64473,
+			"area": 30,
+			"density": 2149
+		},
+		{
+			"state": "National Capital Territory of Delhi",
+			"stateCode": "DL",
+			"districtCode": "CD",
+			"district": "Central Delhi",
+			"headquarters": "Daryaganj",
+			"population": 582320,
+			"area": 25,
+			"density": 27730
+		},
+		{
+			"state": "National Capital Territory of Delhi",
+			"stateCode": "DL",
+			"districtCode": "ED",
+			"district": "East Delhi",
+			"headquarters": "Preet Vihar",
+			"population": 1709346,
+			"area": 440,
+			"density": 27132
+		},
+		{
+			"state": "National Capital Territory of Delhi",
+			"stateCode": "DL",
+			"districtCode": "ND",
+			"district": "New Delhi",
+			"headquarters": "Connaught Place",
+			"population": 142004,
+			"area": 22,
+			"density": 4057
+		},
+		{
+			"state": "National Capital Territory of Delhi",
+			"stateCode": "DL",
+			"districtCode": "NO",
+			"district": "North Delhi",
+			"headquarters": "Sadar Bazaar",
+			"population": 887978,
+			"area": 59,
+			"density": 14557
+		},
+		{
+			"state": "National Capital Territory of Delhi",
+			"stateCode": "DL",
+			"districtCode": "NE",
+			"district": "North East Delhi",
+			"headquarters": "Seelampur",
+			"population": 2241624,
+			"area": 52,
+			"density": 36155
+		},
+		{
+			"state": "National Capital Territory of Delhi",
+			"stateCode": "DL",
+			"districtCode": "NW",
+			"district": "North West Delhi",
+			"headquarters": "Kanjhawala",
+			"population": 3656539,
+			"area": 130,
+			"density": 8254
+		},
+		{
+			"state": "National Capital Territory of Delhi",
+			"stateCode": "DL",
+			"districtCode": "\u2013",
+			"district": "Shahdara district",
+			"headquarters": "Nand Nagri",
+			"population": 0,
+			"area": 59,
+			"density": 0
+		},
+		{
+			"state": "National Capital Territory of Delhi",
+			"stateCode": "DL",
+			"districtCode": "SD",
+			"district": "South Delhi",
+			"headquarters": "Saket",
+			"population": 2731929,
+			"area": 250,
+			"density": 11060
+		},
+		{
+			"state": "National Capital Territory of Delhi",
+			"stateCode": "DL",
+			"districtCode": "SE",
+			"district": "South East Delhi",
+			"headquarters": "Defence Colony",
+			"population": 1500636,
+			"area": 102,
+			"density": 15000
+		},
+		{
+			"state": "National Capital Territory of Delhi",
+			"stateCode": "DL",
+			"districtCode": "SW",
+			"district": "South West Delhi",
+			"headquarters": "Vasant Vihar",
+			"population": 2292958,
+			"area": 395,
+			"density": 5446
+		},
+		{
+			"state": "National Capital Territory of Delhi",
+			"stateCode": "DL",
+			"districtCode": "WD",
+			"district": "West Delhi",
+			"headquarters": "Rajouri Garden",
+			"population": 2543243,
+			"area": 112,
+			"density": 19563
+		},
+		{
+			"state": "Puducherry",
+			"stateCode": "PY",
+			"districtCode": "KA",
+			"district": "Karaikal",
+			"headquarters": "Karaikal",
+			"population": 200222,
+			"area": 157,
+			"density": 1275
+		},
+		{
+			"state": "Puducherry",
+			"stateCode": "PY",
+			"districtCode": "MA",
+			"district": "Mah\u00e9",
+			"headquarters": "Mah\u00e9",
+			"population": 41816,
+			"area": 9,
+			"density": 4646
+		},
+		{
+			"state": "Puducherry",
+			"stateCode": "PY",
+			"districtCode": "PO",
+			"district": "Puducherry",
+			"headquarters": "Pondicherry",
+			"population": 950289,
+			"area": 293,
+			"density": 3232
+		},
+		{
+			"state": "Puducherry",
+			"stateCode": "PY",
+			"districtCode": "YA",
+			"district": "Yanam",
+			"headquarters": "Yanam",
+			"population": 55626,
+			"area": 30,
+			"density": 1854
+		}
+	]
+}
