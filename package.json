@@ -1,6 +1,6 @@
 {
   "name": "data-for-india",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "This repository contains JSON datasets that might be useful for making applications for Indian users.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
