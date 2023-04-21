@@ -1,0 +1,23 @@
+{
+  "name": "data-for-india",
+  "version": "0.1.0",
+  "description": "This repository contains JSON datasets that might be useful for making applications for Indian users.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "eslint . --ext .ts && tsc",
+    "lint": "eslint . --ext .ts"
+  },
+  "keywords": [
+    "json",
+    "india",
+    "dataset"
+  ],
+  "author": "iaseth",
+  "homepage": "https://github.com/iaseth/data-for-india",
+  "repository": "iaseth/data-for-india",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.15.13"
+  }
+}

@@ -1,0 +1,7 @@
+
+src/
+temp/
+templates/
+
+*.py
+Makefile
